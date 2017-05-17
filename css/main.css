@@ -5,3 +5,13 @@ footer {
     text-align: center;
     background-color: #f8f8f8;
 }
+
+.aboutme {
+    text-align: center;
+}
+
+.avatarimg{
+    max-width: 300px;
+    width: 100%;
+    margin: auto;
+}
