@@ -23,7 +23,12 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-tabs:
+tabnames:
   - About Me
   - Page 1
   - Page 2
+
+tablinks:
+  - index.html
+  - page1.html
+  - page2.html

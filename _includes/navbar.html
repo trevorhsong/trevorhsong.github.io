@@ -4,11 +4,11 @@
   <a class="navbar-brand" href="#">Sébastien Martin</a>
 </div>
 <ul class="nav navbar-nav">
-  {% for tab in site.tabs %}
-  {% if page.tab == tab %}
-    <li class="active"><a href="#">{{ tab }}</a></li>
+  {% for tab in site.tabnames %}
+  {% if page.tabname == tab %}
+    <li class="active"><a href="{{ site.tablinks[forloop.index0] }}">{{ tab }}</a></li>
   {% else %}
-    <li><a href="#">{{ tab }}</a></li>
+    <li><a href="{{ site.tablinks[forloop.index0] }}">{{ tab }}</a></li>
   {% endif %}
   {% endfor %}
 </ul>
