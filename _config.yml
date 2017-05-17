@@ -22,3 +22,8 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+tabs:
+  - About Me
+  - Page 1
+  - Page 2
