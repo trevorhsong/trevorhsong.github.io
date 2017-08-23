@@ -25,6 +25,8 @@ exclude:
 
 tabnames:
   - About Me
+  - Research
 
 tablinks:
   - index.html
+  - research.html
