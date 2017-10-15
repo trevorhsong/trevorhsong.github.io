@@ -26,7 +26,9 @@ exclude:
 tabnames:
   - About Me
   - Research
+  - CV
 
 tablinks:
   - index.html
   - research.html
+  - assets/sebastienmartin_resume.pdf
