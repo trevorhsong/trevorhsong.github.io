@@ -26,11 +26,11 @@ exclude:
 tabnames:
   - About Me
   - Research
-  - Press
+  - Impact
   - CV
 
 tablinks:
   - index.html
   - research.html
-  - media.html
+  - impact.html
   - assets/sebastienmartin_resume.pdf
