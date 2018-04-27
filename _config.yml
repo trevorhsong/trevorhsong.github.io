@@ -7,10 +7,8 @@ title: Sébastien Martin
 email: 92sebastien@gmail.com
 description: Personal Website of Sebastien Martin, PhD Student at MIT
 
-currentresume: resumes/S.MARTIN_201803_resume_academic.pdf # DO NOT FORGET TO CHANGE THE TAB LINK AS WELL
-#   Write an awesome description for your new site here. You can edit this
-#   line in _config.yml. It will appear in your document head meta (for
-#   Google search results) and in your feed.xml site description.
+currentresume: resumes/S.MARTIN_201804_resume_academic.pdf # DO NOT FORGET TO CHANGE THE TAB LINK AS WELL
+
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -35,5 +33,5 @@ tablinks:
   - index.html
   - research.html
   - impact.html
-  - assets/resumes/S.MARTIN_201803_resume_academic.pdf
+  - assets/resumes/S.MARTIN_201804_resume_academic.pdf
 
