@@ -26,12 +26,12 @@ exclude:
 tabnames:
   - About Me
   - Research
-  - Impact
+  - Media & Applications
   - CV
 
 tablinks:
   - index.html
   - research.html
-  - impact.html
+  - media.html
   - assets/resumes/S.MARTIN_201804_resume_academic.pdf
 
