@@ -3,7 +3,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Sébastien Martin
+title: Sebastien Martin
 email: 92sebastien@gmail.com
 description: Personal Website of Sebastien Martin, PhD Student at MIT
 
