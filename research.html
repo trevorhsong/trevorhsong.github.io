@@ -13,13 +13,73 @@ tabname: Research
     </p>
     <h2>Published Work</h2>
 
+    <div class="panel panel-default">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <a data-toggle="collapse" data-parent="#completed" href="#collapse4">
+            D. Bertsimas, A. Delarue, S. Martin.
+            <em>Optimizing schools' start time and bus routes</em> (2019) 
+            <strong>Proceedings of the National Academy of Sciences (PNAS)</strong>
+          </a><br />
+          (formerly <em>From School Buses to Start Times: Driving Policy With Optimization</em>)
+          <i class="material-icons md-18">bookmark</i> Franz Edelman Award 2019 Finalist <br />
+          <i class="material-icons md-18">bookmark</i> MIT ORC 2018 Best Student Paper <br />
+          <i class="material-icons md-18">bookmark</i> 2nd place of <em>Doing Good with Good OR</em> Competition, INFORMS 2018
+        </div>
+        <div id="collapse4" class="panel-collapse collapse">
+          <div class="panel-body">
+            <div class="row">
+              <div class="col-md-4">                  
+                <img src="assets/img/boston_routes.png" class="img-responsive" alt="Travel time estimation in NYC" />
+              </div>
+              <div class="col-md-8">
+                <p>
+                  <strong>Abstract:</strong> Maintaining a fleet of buses to transport students to school is a major expense for U.S. school districts. In order to reduce transportation costs by allowing buses to be reused between schools, many districts spread start times across the morning. However, assigning each school a time involves both estimating the impact on transportation costs and reconciling additional competing objectives. Facing this intricate optimization problem, school districts must resort to ad hoc approaches, which are often expensive, inequitable, and even detrimental to student health. For example, medical evidence overwhelmingly indicates that early high school starts are severely impacting the development of an entire generation of students and constitute a major public health crisis. We present the first algorithm to jointly optimize school bus routing and bell time assignment. Our method leverages a natural decomposition of the routing problem and uses mixed-integer optimization to compute and combine subproblem solutions. Our algorithm significantly outperforms state-of-the-art school bus routing methods. The routing engine can be used to formulate a tractable proxy to transportation costs, which allows the formulation of the bell time assignment problem as a multi-objective Generalized Quadratic Assignment Problem. Local search methods provide high-quality solutions, allowing school districts to explore the tradeoffs between competing priorities and choose the solution that best suits the needs of the community. Our application in Boston led to $5 million in yearly savings (maintaining service quality despite a 50-bus fleet reduction) and to the unanimous approval of the first school start time reform in thirty years.
+                </p>
+                <p style="text-align: center;">
+                  <a href="https://doi.org/10.1073/pnas.1811462116"><button type="button" class="btn btn-primary btn-lg">Paper</button></a>
+                  <a href="assets/papers/201901schooltimepaper.pdf"><button type="button" class="btn btn-primary btn-lg">Get Manuscript</button></a>
+                  <a href="http://online.wsj.com/public/resources/documents/print/WSJ_-A002-20170812.pdf"><button type="button" class="btn btn-primary btn-lg">Wall Street Journal</button></a>
+                  <a href="https://apps.bostonglobe.com/ideas/graphics/2018/09/equity-machine/"><button type="button" class="btn btn-primary btn-lg">Boston Globe</button></a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="panel-heading">
+          <a data-toggle="collapse" data-parent="#completed" href="#collapse3">
+            D. Bertsimas, A. Delarue, P. Jaillet, S. Martin. (2019)
+            <em>Travel Time Estimation in the Age of Big Data</em>. 
+            <strong>Operations Research</strong> (Article in Advance)
+          </a>
+      </div>
+      <div id="collapse3" class="panel-collapse collapse">
+        <div class="panel-body">
+          <div class="row">
+            <div class="col-md-4">                  
+              <img src="assets/img/manhattan_zoom_0911.png" class="img-responsive" alt="Travel time estimation in NYC" />
+            </div>
+            <div class="col-md-8">
+              <p>
+                  <strong>Abstract:</strong> Twenty-first century urban planners have identified the understanding of complex city traffic patterns as a major priority, leading to a sharp increase in the amount and the diversity of traffic data being collected. For instance, taxi companies in an increasing number of major cities have started recording metadata for every individual car ride. In this paper, we show that we can leverage network optimization insights to extract accurate travel time estimations from such origin-destination data, using information from a large number of taxi trips to reconstruct the traffic patterns in an entire city on a variety of timescales. We develop a method that tractably exploits origin-destination data, and draws from its optimization framework the flexibility needed to take advantage of other sources of traffic information. Using synthetic data, we establish the robustness of our algorithm to uncertainty, and display its ability to significantly reduce input variance. We show empirically that our algorithm can leverage any available amount of data, even in a high-variance environment, to provide insights about urban traffic patterns on different scales, leading to accurate travel time estimations throughout the network.
+              </p>
+              <p style="text-align: center;">
+                <a href="https://pubsonline.informs.org/doi/10.1287/opre.2018.1784"><button type="button" class="btn btn-primary btn-lg">Get Paper</button><a href="assets/papers/201805traveltimespaper.pdf"><button type="button" class="btn btn-primary btn-lg">Manuscript</button></a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <div class="panel-group" id="published">
       <div class="panel panel-default">
         <div class="panel-heading">
           <a data-toggle="collapse" data-parent="#completed" href="#collapse2">
-              D. Bertsimas, P. Jaillet, S. Martin.
+              D. Bertsimas, P. Jaillet, S. Martin. (2019)
               <em>Online vehicle routing: the edge of optimization in large-scale applications</em>.
-              <strong>Operations Research (Article in Advance, Jan 2019)</strong>
+              <strong>Operations Research (Volume 67, Issue 1)</strong>
           </a><br />
           <i class="material-icons md-18">bookmark</i> Best Presentation (2018 LIDS Student Conference)
         </div>
@@ -34,7 +94,7 @@ tabname: Research
                     <strong>Abstract:</strong> With the emergence of ride-sharing companies that offer transportation on demand at a large scale and the increasing availability of corresponding demand datasets, new challenges arise to develop routing optimization algorithms that can solve massive problems in real time. In this paper, we develop an optimization framework, coupled with a novel and generalizable backbone algorithm, that allows us to dispatch in real time thousands of taxis serving more than 25,000 customers per hour. We provide evidence from historical simulations using New York City routing network and yellow cabs data to show that our algorithms improve upon the performance of existing heuristics in such real-world settings.
                 </p>
                 <p style="text-align: center;">
-                  <a href="https://pubsonline.informs.org/doi/10.1287/opre.2018.1763"><button type="button" class="btn btn-primary btn-lg">Get Paper (OR article in advance)</button><a href="assets/papers/201803taxipaper.pdf"><button type="button" class="btn btn-primary btn-lg">Manuscript</button></a>
+                  <a href="https://pubsonline.informs.org/doi/10.1287/opre.2018.1763"><button type="button" class="btn btn-primary btn-lg">Get Paper</button><a href="assets/papers/201803taxipaper.pdf"><button type="button" class="btn btn-primary btn-lg">Manuscript</button></a>
                 </p>
               </div>
             </div>
@@ -77,68 +137,10 @@ tabname: Research
         </div>
       </div>
     </div>
-    <h2>Completed Work</h2>
+    <!-- <h2>Completed Work</h2>
     <div class="panel-group" id="completed">
-      <div class="panel panel-default">
-        <div class="panel-heading">
-            <a data-toggle="collapse" data-parent="#completed" href="#collapse3">
-              D. Bertsimas, A. Delarue, P. Jaillet, S. Martin.
-              <em>Travel Time Estimation in the Age of Big Data</em>. 
-              <strong>Operations Research (accepted for publication)</strong>
-            </a>
-        </div>
-        <div id="collapse3" class="panel-collapse collapse">
-          <div class="panel-body">
-            <div class="row">
-              <div class="col-md-4">                  
-                <img src="assets/img/manhattan_zoom_0911.png" class="img-responsive" alt="Travel time estimation in NYC" />
-              </div>
-              <div class="col-md-8">
-                <p>
-                    <strong>Abstract:</strong> Twenty-first century urban planners have identified the understanding of complex city traffic patterns as a major priority, leading to a sharp increase in the amount and the diversity of traffic data being collected. For instance, taxi companies in an increasing number of major cities have started recording metadata for every individual car ride. In this paper, we show that we can leverage network optimization insights to extract accurate travel time estimations from such origin-destination data, using information from a large number of taxi trips to reconstruct the traffic patterns in an entire city on a variety of timescales. We develop a method that tractably exploits origin-destination data, and draws from its optimization framework the flexibility needed to take advantage of other sources of traffic information. Using synthetic data, we establish the robustness of our algorithm to uncertainty, and display its ability to significantly reduce input variance. We show empirically that our algorithm can leverage any available amount of data, even in a high-variance environment, to provide insights about urban traffic patterns on different scales, leading to accurate travel time estimations throughout the network.
-                </p>
-                <p style="text-align: center;">
-                    <a href="assets/papers/201805traveltimespaper.pdf"><button type="button" class="btn btn-primary btn-lg">Get Paper</button>
-                    </a>
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
 
-      <div class="panel panel-default">
-        <div class="panel-heading">
-          <a data-toggle="collapse" data-parent="#completed" href="#collapse4">
-            D. Bertsimas, A. Delarue, S. Martin.
-            <em>From School Buses to Start Times: Driving Policy With Optimization</em>. 
-            <strong>(in third round of revision, PNAS)</strong>
-          </a><br />
-          <i class="material-icons md-18">bookmark</i> Franz Edelman Award 2019 Finalist <br />
-          <i class="material-icons md-18">bookmark</i> MIT ORC 2018 Best Student Paper <br />
-          <i class="material-icons md-18">bookmark</i> 2nd place of <em>Doing Good with Good OR</em> Competition, INFORMS 2018
-        </div>
-        <div id="collapse4" class="panel-collapse collapse">
-          <div class="panel-body">
-            <div class="row">
-              <div class="col-md-4">                  
-                <img src="assets/img/boston_routes.png" class="img-responsive" alt="Travel time estimation in NYC" />
-              </div>
-              <div class="col-md-8">
-                <p>
-                  <strong>Abstract:</strong> Maintaining a fleet of buses to transport students to school is a major expense for U.S. school districts. In order to reduce transportation costs by allowing buses to be reused between schools, many districts spread start times across the morning. However, assigning each school a time involves both estimating the impact on transportation costs and reconciling additional competing objectives. Facing this intricate optimization problem, school districts must resort to ad hoc approaches, which are often expensive, inequitable, and even detrimental to student health. For example, medical evidence overwhelmingly indicates that early high school starts are severely impacting the development of an entire generation of students and constitute a major public health crisis. We present the first algorithm to jointly optimize school bus routing and bell time assignment. Our method leverages a natural decomposition of the routing problem and uses mixed-integer optimization to compute and combine subproblem solutions. Our algorithm significantly outperforms state-of-the-art school bus routing methods. The routing engine can be used to formulate a tractable proxy to transportation costs, which allows the formulation of the bell time assignment problem as a multi-objective Generalized Quadratic Assignment Problem. Local search methods provide high-quality solutions, allowing school districts to explore the tradeoffs between competing priorities and choose the solution that best suits the needs of the community. Our application in Boston led to $5 million in yearly savings (maintaining service quality despite a 50-bus fleet reduction) and to the unanimous approval of the first school start time reform in thirty years.
-                </p>
-                <p style="text-align: center;"><a href="assets/papers/201901schooltimepaper.pdf"><button type="button" class="btn btn-primary btn-lg">Get Manuscript</button></a>
-                  <a href="https://sinews.siam.org/Details-Page/a-school-bus-trip-to-the-crossroads-of-policy-and-optimization"><button type="button" class="btn btn-primary btn-lg">SIAM News Blog Post</button></a>
-                  <a href="http://online.wsj.com/public/resources/documents/print/WSJ_-A002-20170812.pdf"><button type="button" class="btn btn-primary btn-lg">Media: Transportation</button></a>
-                  <a href="https://apps.bostonglobe.com/ideas/graphics/2018/09/equity-machine/"><button type="button" class="btn btn-primary btn-lg">Media: Start Times</button></a>
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+    </div> -->
 
     <h2>Current Research</h2>
     <div class="panel-group" id="current">
