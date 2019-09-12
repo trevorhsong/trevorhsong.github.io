@@ -193,46 +193,41 @@ tabname: Research
       </div>
     </div>
 
-    <!-- <h2>Current Research</h2>
-    <div class="panel-group" id="current">
+    <h2>Other</h2>
+    <div class="panel-group" id="other">
       <div class="panel panel-default">
         <div class="panel-heading">
-            <a data-toggle="collapse" data-parent="#current" href="#collapse_current1">
-              New Large-Scale Transportation Systems
+            <a data-toggle="collapse" data-parent="#other" href="#phdthesis">
+              PhD thesis: The Edge of Large-Scale Optimization in Transportation and Machine Learning
             </a>
         </div>
-        <div id="collapse_current1" class="panel-collapse collapse">
+        <div id="phdthesis" class="panel-collapse collapse">
           <div class="panel-body">
-              New large scale transportation infrastructure are revolutionizing our daily commute. Even more that traditional Uber/Lyft, ride sharing, electric scooters and self driving technologies create the opportunity of exciting and impactful new optimization problems. My current work, in the line of my already published transportation research, explores these applications and try to scale traditional optimization algorithms and formulations to tackle these new challenges. 
+            This thesis focuses on impactful applications of large-scale optimization in transportation and machine learning. 
+            Using both theory and computational experiments, we introduce novel optimization algorithms to overcome the tractability issues that arise in real world applications. 
+            We work towards the implementation of these algorithms, through software contributions, public policy work, and a formal study of machine learning interpretability.
+            Our implementation in Boston Public Schools generates millions of dollars in yearly transportation savings and led to important public policy consequences in the United States.
+            
+            This work is motivated by large-scale transportation problems that present significant optimization challenges.
+            In particular, we study the problem of ride-sharing, the online routing of hundreds of thousands of customers every day in New York City. 
+            We also contribute to travel time estimation from origin-destination data, on city routing networks with tens of thousands of roads.
+            We additionally consider the problem of school transportation, the scheduling of hundreds of buses to send tens of thousands of children to school everyday. 
+            This transportation problem is related to the choice of school start times, for which we also propose an optimization framework.
+            
+            Building on these applications, we present methodological contributions in large-scale optimization.
+            We introduce state-of-the-art algorithms for scheduling problems with time-window (<em>backbone</em>) and for school bus routing (<em>BiRD</em>).
+            Our work on travel time estimation tractably produces solutions to the inverse shortest path length problem, solving a sequence of second order cone problems.
+            We also present a theoretical and empirical study of the stochastic proximal point algorithm, an alternative to stochastic gradient methods (the de-facto algorithm for large-scale learning).
+            
+            We also aim at the implementation of these algorithms, through software contributions, public policy work (together with stakeholders and journalists), and a collaboration with the city of Boston.
+            Explaining complex algorithms to decision-makers is a difficult task, therefore we introduce an optimization framework to decomposes models into a sequence of simple building blocks. 
+            This allows us to introduce formal measure of the "interpretability" of a large class of machine learning models, and to study tradeoffs between this measure and model performance, the <em>price of interpretability</em>.
+            <p style="text-align: center;">
+              <a href="assets/papers/sebastienmartin_thesis.pdf"><button type="button" class="btn btn-primary btn-lg">Get Thesis</button></a>
+            </p>
           </div>
         </div>
       </div>
-
-      <div class="panel panel-default">
-        <div class="panel-heading">
-            <a data-toggle="collapse" data-parent="#current" href="#collapse_current2">
-              Stochastic Proximal Algorithms
-            </a>
-        </div>
-        <div id="collapse_current2" class="panel-collapse collapse">
-          <div class="panel-body">
-            Stochastic proximal algorithms are a way to explore the intersection of optimization and large scale machine learning. The aim of this work is to show that these algorithms can be competitive with projected first order algorithms (such as stochastic gradient descent) in practice.
-          </div>
-        </div>
-      </div>
-
-      <div class="panel panel-default">
-        <div class="panel-heading">
-            <a data-toggle="collapse" data-parent="#current" href="#collapse_current3">
-              Interpretable Models
-            </a>
-        </div>
-        <div id="collapse_current3" class="panel-collapse collapse">
-          <div class="panel-body">
-            Model interpretability is an important topic for today's Operations Research and Machine Learning. This loosely defined property is generally associated with sparsity, decision trees, clustering or some times even neural networks. In this work, we define and study a novel general class of interpretable models.
-          </div>
-        </div>
-      </div>
-    </div> -->
+    </div>
   </div>
 </div>
