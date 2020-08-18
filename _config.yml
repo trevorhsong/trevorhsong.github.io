@@ -7,8 +7,6 @@ title: Sebastien Martin
 email: 92sebastien@gmail.com
 description: Personal Website of Sebastien Martin, PhD Student at MIT
 
-currentresume: resumes/S.MARTIN_201901_resume_academic.pdf # DO NOT FORGET TO CHANGE THE TAB LINK AS WELL
-
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -27,11 +25,8 @@ tabnames:
   - About Me
   - Research
   - Media
-  - CV
 
 tablinks:
   - index.html
   - research.html
   - media.html
-  - assets/resumes/S.MARTIN_201901_resume_academic.pdf
-
