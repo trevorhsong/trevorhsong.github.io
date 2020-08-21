@@ -5,7 +5,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Sebastien Martin
 email: 92sebastien@gmail.com
-description: Personal Website of Sebastien Martin, PhD Student at MIT
+description: Personal Website of Sebastien Martin
 
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -25,8 +25,10 @@ tabnames:
   - About Me
   - Research
   - Media
+  - Resume
 
 tablinks:
   - index.html
   - research.html
   - media.html
+  - assets/resumes/sebastienmartin_resume.pdf
