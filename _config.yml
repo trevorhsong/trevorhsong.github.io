@@ -1,34 +1,128 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Sebastien Martin
-email: 92sebastien@gmail.com
-description: Personal Website of Sebastien Martin
+name: &name "Sébastien Martin" # my name, also used as default author
+remote_theme: sebmart/minimal-mistakes
+minimal_mistakes_skin: default # or use "default"
+title: *name # website title, also used in other places
+title_separator: "|" # Separator for subpages
+subtitle: "Personal academic website" #appears in the masthead of the website
+description: >- # this means to ignore newlines until "next attribute:"
+  Personal academic website of Sébastien Martin, professor at the Kellogg School of Management, Northwestern University.
+url: "https://sebastienmartin.info"
+repository: "sebmart/sebmart.github.io"
+logo: "/assets/images/kellogg_k.png"
 
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-# github_username:  jekyll
+email: sebastien.martin@kellogg.northwestern.edu
+# twitter_username: username
+github_username: sebmart
+search: true
+locale: en-US
+
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-105220526-1"
+    anonymize_ip: false # default
 
 # Build settings
 markdown: kramdown
-# theme: minima
-gems:
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+  - jemoji
+  - jekyll-include-cache
 
-tabnames:
-  - About Me
-  - Research
-  - Media
-  - Resume
+# The author sidebar
+author:
+  name   : *name
+  avatar : "/assets/images/sebastienmartin.jpg"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 
-tablinks:
-  - index.html
-  - research.html
-  - media.html
-  - assets/resumes/sebastienmartin_resume.pdf
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
