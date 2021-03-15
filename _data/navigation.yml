@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+  - title: "Research"
+    url: /research/
+  - title: "Press"
+    url: /press/
+  - title: "CV"
+    url: /assets/documents/S.MARTIN_202102_short.pdf
