@@ -2,7 +2,6 @@
 title: "Students and Collaborators"
 permalink: /students/
 author_profile: true
-classes: wide
 ---
 
 I have the pleasure to collaborate with fantastic researchers and students!
