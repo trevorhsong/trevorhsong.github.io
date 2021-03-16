@@ -1,9 +1,11 @@
 main:
-  - title: "About"
-    url: /about/
   - title: "Research"
     url: /research/
+  - title: "Students and collaborators"
+    url: /students/
   - title: "Press"
     url: /press/
   - title: "CV"
     url: /assets/documents/S.MARTIN_202102_short.pdf
+  - title: "About"
+    url: "/"
