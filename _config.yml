@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 name: &name "Sébastien Martin" # my name, also used as default author
-remote_theme: sebmart/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes@4.22.0
 minimal_mistakes_skin: default # or use "default"
 title: *name # website title, also used in other places
 title_separator: "|" # Separator for subpages
@@ -28,7 +28,7 @@ logo: "/assets/images/kellogg_k.png"
 email: sebastien.martin@kellogg.northwestern.edu
 # twitter_username: username
 github_username: sebmart
-search: true
+search: false
 locale: en-US
 
 analytics:
