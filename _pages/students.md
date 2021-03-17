@@ -11,11 +11,11 @@ I have the pleasure to collaborate with fantastic researchers and students!
 ### Students
 - **[Arthur Delarue](https://adelarue.github.io/)** (MIT ORC, 5th year PhD student)
 - **Min Fei** (Northwestern IEMS, 1st year PhD student)
+- **Jian Gao** (UCLA, 2nd year PhD student) 
 - **[Zhen Lian](https://www.zhenlian.me/)** (Cornell Johnson, 5th year  PhD student)
 - **Partha S. Mishra** (Kellogg Operations, 2nd year  PhD student)
 - **Skandere Sahli** (MIT Sloan, Master of Business Analytics student)
-- **Haotian Song** (NYU Stern, 5th year  PhD student)
-- **Jian Gao** (UCLA, 2nd year PhD student) 
+- **[Haotian Song](https://sites.google.com/stern.nyu.edu/hsong)** (NYU Stern, 5th year  PhD student)
 
 ### Researchers
 - **[Francisco Castro](https://fcocastro.github.io/)** (UCLA)
