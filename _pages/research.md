@@ -9,11 +9,12 @@ My research is at the interface of optimization, data analytics, transportation 
 <a href="https://scholar.google.com/citations?user=ffqbs_0AAAAJ&hl=en" class="btn btn--primary"><i class="fas a-graduation-cap" aria-hidden="true"></i> Google Scholar</a>
 
 ## Under Review
-- [Detours in Shared Rides](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711072) with I. Lobel. **Management Science, Major revision (2021)**
+- [Detours in Shared Rides](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711072) with I. Lobel. **Management Science, major revision (2021)**
 
-- *Autonomous Vehicles in Ride-Hailing and the Threat of Spatial Inequalities* with F. Castro, J. Gao. **under review, conference (2021)**
+- *Autonomous Vehicles in Ride-Hailing and the Threat of Spatial Inequalities* with F. Castro, J. Gao. **under review (2021)**
 
-- [Larger firms pay more in the gig economy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3775888) with Z. Lian, G. van Ryzin. **under review, journal (2021)**
+- [Larger firms pay more in the gig economy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3775888) with Z. Lian, G. van Ryzin. **under review (2021)**
+{: .small}
 
 ## Published Work
 - [Bus Routing Optimization Helps Boston Public Schools Design Better Policies](https://pubsonline.informs.org/doi/10.1287/inte.2019.1015) with D. Bertsimas, A. Delarue, W. Eger, J. Hanlon. **INFORMS Journal of Applied Analytics (2020)**
