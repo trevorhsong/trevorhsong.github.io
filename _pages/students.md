@@ -20,11 +20,12 @@ I have the pleasure to collaborate with fantastic researchers and students!
 ### Researchers
 - **[Francisco Castro](https://fcocastro.github.io/)** (UCLA)
 - **[Sunil Chopra](https://www.kellogg.northwestern.edu/faculty/directory/chopra_sunil.aspx)** (Northwestern Kellogg)
+- **[Alexandre M. Florio](https://research.tue.nl/en/persons/alexandre-m-florio/)** (Postdoc, Eidhoven University of Technology)
 - **[Alexandre Jacquillat](https://mitsloan.mit.edu/faculty/directory/alexandre-jacquillat)** (MIT Sloan)
 - **[Ilan Lobel](https://www.stern.nyu.edu/faculty/bio/ilan-lobel)** (NYU)
 - **[Karen Smilowitz](http://users.iems.northwestern.edu/~smilo/)** (Northwestern University)
 - **[Garrett van Ryzin](https://www8.gsb.columbia.edu/cbs-directory/detail/gjv1)** (Amazon)
-- **[Julia Yan](http://www.mit.edu/~jyyan/)** (Lyft)
+- **[Julia Yan](http://www.mit.edu/~jyyan/)** (Postdoc, Lyft)
 
 ## Past Collaborators
 
