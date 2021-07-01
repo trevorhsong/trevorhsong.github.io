@@ -10,10 +10,9 @@ My research is at the interface of optimization, data analytics, transportation 
 
 ## Under Review
 - [Detours in Shared Rides](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711072) with I. Lobel. **Management Science, major revision (2021)**
-
-- *Autonomous Vehicles in Ride-Hailing and the Threat of Spatial Inequalities* with F. Castro, J. Gao. **under review (2021)**
-
-- [Larger firms pay more in the gig economy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3775888) with Z. Lian, G. van Ryzin. **under review (2021)**
+- [Employees, Contractors, or Hybrid: An Operational Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878215) with I. Lobel, H. Song. **under review (2021)**
+- [Labor Cost Free-Riding in the Gig Economy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3775888) with Z. Lian, G. van Ryzin. **under review (2021)**
+  
 {: .small}
 
 ## Published Work
@@ -31,6 +30,14 @@ My research is at the interface of optimization, data analytics, transportation 
    - <i class="fas fa-award" aria-hidden="true"></i> Best Presentation (2018 LIDS conference)
 
 - [Creating complex congestion patterns via multi-objective optimal freeway traffic control with application to cyber-security](https://www.sciencedirect.com/science/article/pii/S0191261516303307) with J. Reilly, M. Payer, A. Bayen. **Transportation Research Part B: Methodological (2016)**
+
+{: .small}
+
+## Working Papers
+
+- *Optimization enables transparent and inclusive policies: Improving school schedules in San Francisco* with A. Delarue, Z. Lian. **(2021)**
+- *Autonomous Vehicles in Ride-Hailing and the Threat of Spatial Inequalities* with F. Castro, J. Gao. **(2021)**
+
 {: .small}
 
 ## Completed Work

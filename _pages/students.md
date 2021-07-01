@@ -9,7 +9,6 @@ I have the pleasure to collaborate with fantastic researchers and students!
 ## Current Collaborators
 
 ### Students
-- **[Arthur Delarue](https://adelarue.github.io/)** (MIT ORC, 5th year PhD student)
 - **Min Fei** (Northwestern IEMS, 1st year PhD student)
 - **Jian Gao** (UCLA, 2nd year PhD student) 
 - **[Zhen Lian](https://www.zhenlian.me/)** (Cornell Johnson, 5th year  PhD student)
@@ -20,6 +19,7 @@ I have the pleasure to collaborate with fantastic researchers and students!
 ### Researchers
 - **[Francisco Castro](https://fcocastro.github.io/)** (UCLA)
 - **[Sunil Chopra](https://www.kellogg.northwestern.edu/faculty/directory/chopra_sunil.aspx)** (Northwestern Kellogg)
+- **[Arthur Delarue](https://adelarue.github.io/)** (Lyft Inc., post doctoral fellow)
 - **[Alexandre M. Florio](https://research.tue.nl/en/persons/alexandre-m-florio/)** (Postdoc, Eidhoven University of Technology)
 - **[Alexandre Jacquillat](https://mitsloan.mit.edu/faculty/directory/alexandre-jacquillat)** (MIT Sloan)
 - **[Ilan Lobel](https://www.stern.nyu.edu/faculty/bio/ilan-lobel)** (NYU)

@@ -1,8 +1,11 @@
 ---
-title: "Media Coverage"
+title: "Research Impact & Media Coverage"
 permalink: /press/
 author_profile: true
 ---
+- I helped with the reopening the public schools of San Francisco, and redesigned their schedules to improve student health and help with the school budget.
+  - **San Francisco website** [2021-22 school schedule changes](https://www.sfusd.edu/schools/school-start-and-end-times-2021-22)**, June 2021.
+  - **Project website** <https://schoolbelltimes.org/>, June 2021.
 - I proposed a change to the schools start times in Boston
     - <strong>KelloggInsight</strong>. 
             <a href="https://insight.kellogg.northwestern.edu/article/algorithm-schools-student-equity">Researchers Designed an Algorithm to Save Schools Money and Improve Equity. The District Loved it. Then Things Got Messy.</a>
