@@ -19,7 +19,7 @@ classes: wide
 - Supplier’s Credit Guarantee Choice in Financing a Downstream Buyer With Bankruptcy Risk. With Huihui Liu and Wenqiang Xiao.
 
 ## Predoctoral Publications
-- [On the Cardinality of Positively Linearly Independent Sets](https://arxiv.org/pdf/1509.07496.pdf). (2016) *Optimization Letters* 10(4): 649-654. With Warren Hare.
+- [On the Cardinality of Positively Linearly Independent Sets](https://arxiv.org/pdf/1509.07496.pdf). *Optimization Letters* 10(4): 649-654. With Warren Hare (2016).
 - [Optimal Transmission Network Topology for Resilient Power Supply](http://ils2016conference.com/wp-content/uploads/2015/03/ILS2016_TB01_2.pdf) *ILS* 2016. With Yuriy Zinchenko and William Rosehart. 
 
 ## Collaborators
