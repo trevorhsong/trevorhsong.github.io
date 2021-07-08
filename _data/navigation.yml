@@ -1,11 +1,9 @@
 main:
   - title: "Research"
     url: /research/
-  - title: "Collaborators"
-    url: /students/
-  - title: "Press"
-    url: /press/
-  - title: "CV"
-    url: /assets/documents/S.MARTIN_202102_short.pdf
-  - title: "About"
-    url: "/"
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Extracurricular"
+    url: /extracurricular/
+#   - title: "About"
+#     url: "/"
