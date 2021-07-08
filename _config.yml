@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-name: &name "Sébastien Martin" # my name, also used as default author
+name: &name "Haotian Song" # my name, also used as default author
 remote_theme: mmistakes/minimal-mistakes@4.22.0
 minimal_mistakes_skin: default # or use "default"
 title: *name # website title, also used in other places
@@ -21,20 +21,20 @@ title_separator: "|" # Separator for subpages
 subtitle: "Personal academic website" #appears in the masthead of the website
 description: >- # this means to ignore newlines until "next attribute:"
   Personal academic website of Sébastien Martin, professor at the Kellogg School of Management, Northwestern University.
-url: "https://sebastienmartin.info"
-repository: "sebmart/sebmart.github.io"
-logo: "/assets/images/kellogg_k.png"
+url: "https://trevorhsong.github.io"
+repository: "trevorhsong/trevorhsong.github.io"
+logo: "/assets/images/logo.png"
 
-email: sebastien.martin@kellogg.northwestern.edu
+email: hsong@stern.nyu.edu
 # twitter_username: username
-github_username: sebmart
+github_username: trevorhsong
 search: false
 locale: en-US
 
 analytics:
   provider: "google"
   google:
-    tracking_id: "UA-105220526-1"
+    tracking_id: 
     anonymize_ip: false # default
 
 # Build settings
@@ -51,25 +51,21 @@ atom_feed:
 # The author sidebar
 author:
   name   : *name
-  avatar : "/assets/images/sebastienmartin.jpg"
-  bio    : "Assistant Professor of Operations at Kellogg, specialized in analytics, transportation and policy"
-  location : "Chicago, IL, USA"
-  email : "sebastien.martin@kellogg.northwestern.edu"
-  linkedin : "sebmart"
-  github : "sebmart"
+  avatar : "/assets/images/profile.png"
+  bio    : "Ph.D. candidate in Operations Management at Stern School of Business of NYU"
+  location : "New York, NYU, USA"
+  email : "hsong@stern.nyu.edu"
+  linkedin : "haotian-trevor-song-4631bb117"
+  github : "trevorhsong"
   links:
-    - label: "Northwestern University"
+    - label: "New York University"
       icon : "fas fa-university"
-      url : "https://www.northwestern.edu/"
-    - label: "Operations@Kellogg"
+    - label: "TOPS@Stern"
       icon : "fas fa-user-friends"
-      url : "https://www.kellogg.northwestern.edu/faculty/academics/operations.aspx"
-    - label: "Kellogg faculty profile"
-      icon : "fas fa-user-tie"
-      url : "https://www.kellogg.northwestern.edu/faculty/directory/martin_sebastien.aspx"
+      url : "https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/ioms-dept"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=ffqbs_0AAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=A4xI6moAAAAJJ&hl=en"
 
 include:
   - _pages
