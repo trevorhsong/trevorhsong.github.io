@@ -57,13 +57,11 @@ author:
   email : "hsong@stern.nyu.edu"
   linkedin : "haotian-trevor-song-4631bb117"
   github : "trevorhsong"
+  googlescholar: "https://scholar.google.com/citations?user=A4xI6moAAAAJJ&hl=en"
   links:
     - label: "TOPS@Stern"
       icon : "fas fa-university"
       url : "https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/ioms-dept"
-    - label: "Google Scholar"
-      icon: "fas fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=A4xI6moAAAAJJ&hl=en"
 
 include:
   - _pages
