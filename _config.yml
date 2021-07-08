@@ -58,10 +58,8 @@ author:
   linkedin : "haotian-trevor-song-4631bb117"
   github : "trevorhsong"
   links:
-    - label: "New York University"
-      icon : "fas fa-university"
     - label: "TOPS@Stern"
-      icon : "fas fa-user-friends"
+      icon : "fas fa-university"
       url : "https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/ioms-dept"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
