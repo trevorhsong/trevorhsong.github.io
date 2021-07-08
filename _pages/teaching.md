@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Lecture Notes
-  * Stochastic Processes and Simulation. Credits to <a href="http://people.stern.nyu.edu/jreed/">Josh Reed.</a>. Notes.
+  * Stochastic Processes and Simulation. Credits to <a href="http://people.stern.nyu.edu/jreed/">Josh Reed</a>. Notes.
   * Game-Theoretic Basis for Business Analytics. Under Construction. 
 
 ## Instructor
