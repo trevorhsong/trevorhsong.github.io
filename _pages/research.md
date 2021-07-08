@@ -21,3 +21,6 @@ classes: wide
 ## Predoctoral Publications
 - [On the Cardinality of Positively Linearly Independent Sets](https://arxiv.org/pdf/1509.07496.pdf). *Optimization Letters* 10(4), 649-654. 2016. With Warren Hare.
 - [Optimal Transmission Network Topology for Resilient Power Supply](http://ils2016conference.com/wp-content/uploads/2015/03/ILS2016_TB01_2.pdf) *ILS* 2016. With Yuriy Zinchenko and William Rosehart. 
+
+## Collaborators
+I have the privilege of working with and learning from my advisors and coauthors (listed alphabetically): [Maxime Cohen](https://maxccohen.github.io/), [Alex Jacquillat](https://mitmgmtfaculty.mit.edu/ajacquillat/), [Huihui Liu](https://overseas.cup.edu.cn/en/?c=content&a=show&id=3451), [Ilan Lobel](http://pages.stern.nyu.edu/~ilobel/), [Sébastien Martin](https://sebastienmartin.info/), [Lian Qi](https://www.business.rutgers.edu/faculty/lian-qi), [Wenqiang Xiao](http://people.stern.nyu.edu/wxiao/).
