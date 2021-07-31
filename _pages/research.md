@@ -7,8 +7,7 @@ classes: wide
 
 ## Research Interests
 - Online Marketplace and Platform Operations
-- OM and Marketing Interface
-- Supply Chain Management (Coordination, Information Economics, Finance Interface)
+- Supply Chain Management and Finance Interface
 - Incentive Design and Contract Theory
 
 ## Working Papers
