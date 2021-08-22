@@ -11,11 +11,11 @@ classes: wide
 - Incentive Design and Contract Theory
 
 ## Working Papers
-- [Optimal Compensation under Inventory Delegation and Supply/Demand Mismatch](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3832363). With Wenqiang Xiao.
-- [Price Discrimination and Inventory Allocation in Bertrand Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3732463). With Maxime Cohen and Alex Jacquillat.
-- Coopetition in Platform-Based Retailing: On the Platform Entry. With Lian Qi and Wenqiang Xiao. 
-- [Employees, Contractors, or Hybrid: An Operational Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878215). With Ilan Lobel and Sébastien Martin. 
-- Supplier’s Credit Guarantee Choice in Financing a Downstream Buyer With Bankruptcy Risk. With Huihui Liu and Wenqiang Xiao.
+- [Optimal Compensation under Inventory Delegation and Supply/Demand Mismatch](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3832363). With Wenqiang Xiao. Revise & Resubmit at MSOM.
+- [Price Discrimination and Inventory Allocation in Bertrand Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3732463). With Maxime Cohen and Alex Jacquillat. Under review.
+- Coopetition in Platform-Based Retailing: On the Platform Entry. With Lian Qi and Wenqiang Xiao. Revise & Resubmit at Management Sci.
+- [Employees, Contractors, or Hybrid: An Operational Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878215). With Ilan Lobel and Sébastien Martin. Under review.
+- Supplier’s Credit Guarantee Choice in Financing a Downstream Buyer With Bankruptcy Risk. With Huihui Liu and Wenqiang Xiao. In progress.
 
 ## Predoctoral Publications
 - [On the Cardinality of Positively Linearly Independent Sets](https://arxiv.org/pdf/1509.07496.pdf). *Optimization Letters* 10(4): 649-654. With Warren Hare (2016).
