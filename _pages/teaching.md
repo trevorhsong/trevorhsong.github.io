@@ -9,7 +9,7 @@ author_profile: true
   * Game-Theoretic Basis for Business Analytics. Under Construction. 
 
 ## Instructor
-  * Operations Management (Undergraduate Core), at NYU Stern, 2019. Evaluation: 4.5/5.0.
+  * Operations Management (Undergraduate Core), at NYU Stern, 2019. Evaluation: 4.3/5.0.
   
 ## Teaching Fellow
   * NYU Stern: Decision Models (Undergrad & MBA), Decision under Risk (Master & MBA), Stochastic Processes and Simulation (Master), Stochastic Modelling and Simulation (Master), Revenue Management and Pricing (Master & MBA).   
