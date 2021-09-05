@@ -12,7 +12,7 @@ classes: wide
 
 ## Working Papers
 - [Optimal Compensation under Inventory Delegation and Supply/Demand Mismatch](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3832363). With Wenqiang Xiao. *Revise & Resubmit at MSOM.*
-- [Price Discrimination and Inventory Allocation in Bertrand Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3732463). With Maxime Cohen and Alex Jacquillat. *Under review.*
+- [Price Discrimination and Inventory Allocation in Bertrand Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3732463). With Maxime Cohen and Alex Jacquillat. *Major Revision at MSOM.*
 - Coopetition in Platform-Based Retailing: On the Platform Entry. With Lian Qi and Wenqiang Xiao. *Revise & Resubmit at Management Sci.*
 - [Employees, Contractors, or Hybrid: An Operational Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878215). With Ilan Lobel and Sébastien Martin. *Under review.*
 - Supplier’s Credit Guarantee Choice in Financing a Downstream Buyer With Bankruptcy Risk. With Huihui Liu and Wenqiang Xiao. *In progress.*
