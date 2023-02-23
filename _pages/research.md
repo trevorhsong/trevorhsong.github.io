@@ -5,6 +5,8 @@ author_profile: true
 classes: wide
 ---
 
+I do incentive analysis and design to align interests and coordinate systems.
+
 ## Research Interests
 - Online Marketplace and Platform Operations
 - Supply Chain Management and Finance Interface
