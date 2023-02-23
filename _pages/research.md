@@ -8,7 +8,7 @@ classes: wide
 I do incentive analysis and design to align interests and coordinate systems.
 
 ## Research Interests
-- Online Marketplace and Platform Operations
+- Platform Operations and Marketplace Analytics
 - Supply Chain Management and Finance Interface
 - Incentive Design and Contract Theory
 
