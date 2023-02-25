@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 ---
 
-I do incentive analysis and design to align interests and coordinate systems.
+I do incentive analysis and design incentive schemes to align interests and coordinate systems.
 
 ## Research Interests
 - Platform Operations and Marketplace Analytics
