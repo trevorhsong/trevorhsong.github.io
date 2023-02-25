@@ -4,6 +4,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+I think the best teaching outcome is igniting the curiosity in the heart and instilling some philosophy in the mind.
+
 ## Lecture Notes
   * Stochastic Processes and Simulation. Credits to <a href="http://people.stern.nyu.edu/jreed/">Josh Reed</a>. Notes.
   * Game-Theoretic Basis for Business Analytics. Under Construction. 
