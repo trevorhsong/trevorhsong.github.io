@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I think the best teaching outcome is igniting the curiosity in the heart and instilling some philosophy in the mind.
+I think the best teaching outcome is igniting students' own curiosities in the heart and instilling some philosophies in the mind.
 
 ## Lecture Notes
   * Stochastic Processes and Simulation. Credits to <a href="http://people.stern.nyu.edu/jreed/">Josh Reed</a>. Notes.
