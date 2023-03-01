@@ -7,19 +7,17 @@ classes: wide
 
 I do incentive analysis and design incentive schemes to align interests and coordinate systems.
 
-## Research Interests
+## Some specific interests
 - Platform Operations and Marketplace Analytics
 - Supply Chain Management and Finance Interface
 - Incentive Design and Contract Theory
 
-## Working Papers
+## Papers
 - [Optimal Compensation under Inventory Delegation and Supply/Demand Mismatch](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3832363). With Wenqiang Xiao. 
-- [Price Discrimination and Inventory Allocation in Bertrand Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3732463). With Maxime Cohen and Alexandre Jacquillat. *Accepted at MSOM.*
+- [Price Discrimination and Inventory Allocation in Bertrand Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3732463). *Manufacturing & Service Operations Management*, 25(1):148-167. 2023. With Maxime Cohen and Alexandre Jacquillat.
 - Coopetition in Platform-Based Retailing: On the Platform Entry. With Lian Qi and Wenqiang Xiao.
 - [Employees, Contractors, or Hybrid: An Operational Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878215). With Ilan Lobel and Sébastien Martin. 
 - Supplier’s Credit Guarantee Choice in Financing a Downstream Buyer With Bankruptcy Risk. With Huihui Liu and Wenqiang Xiao. 
-
-## Predoctoral Publications
 - [On the Cardinality of Positively Linearly Independent Sets](https://arxiv.org/pdf/1509.07496.pdf). *Optimization Letters* 10(4): 649-654. With Warren Hare (2016).
 - [Optimal Transmission Network Topology for Resilient Power Supply](http://ils2016conference.com/wp-content/uploads/2015/03/ILS2016_TB01_2.pdf) *ILS* 2016. With Yuriy Zinchenko and William Rosehart (2016). 
 
