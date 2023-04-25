@@ -10,7 +10,7 @@ I do incentive analysis and design incentive schemes to align interests and coor
 ## Some specific interests
 - Platform Operations and Marketplace Analytics
 - Supply Chain Management and Finance Interface
-- Incentive Design and Contract Theory
+- Contract Theory and Optimization in Economics
 
 ## Papers
 - [Optimal Compensation under Inventory Delegation and Supply/Demand Mismatch](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3832363). With Wenqiang Xiao. 
