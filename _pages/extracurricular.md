@@ -18,7 +18,7 @@ Film photography
 
 Traditional Chinese seal carving
 - I took up seal carving in middle school, finding it an excellent method for attaining inner peace. Sadly, after moving abroad for my studies, the scarcity of materials forced me to give it up.
-- 
+  
 Downhill mountain biking
 - I fell in love with the classical Cannondale lefty in high school, and I started cross-country cycling and then shifted from XC to DH, a shift that brought increased danger and expense! In the summer of 2013, while downhill in Calgary, I fell off a mountain and hung on a pine tree. My body was like a pencil stuck in a pencil sharpener, and a deep gash was cut on the left side of my head. Miraculously, my eyesight was spared. Since then, I have retired,  yet the nostalgia for those exhilarating days persists.
   
