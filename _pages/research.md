@@ -18,9 +18,9 @@ I do incentive analysis and design incentive schemes to align interests and coor
 - Coopetition in Platform-Based Retailing: On the Platform Entry. With Lian Qi and Wenqiang Xiao.
 - [Employees versus Contractors: An Operational Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878215). With Ilan Lobel and Sébastien Martin. *Manufacturing & Service Operations Management* 2024.
 - Supplier Credit Guarantee Signaling in Supply Chain Finance. With Huihui Liu and Wenqiang Xiao. 
-- [On the Cardinality of Positively Linearly Independent Sets](https://arxiv.org/pdf/1509.07496.pdf). With Warren Hare. *Optimization Letters* 10(4): 649-654, 2016.
-- [Optimal Transmission Network Topology for Resilient Power Supply](http://ils2016conference.com/wp-content/uploads/2015/03/ILS2016_TB01_2.pdf). With Yuriy Zinchenko and William Rosehart. *ILS* 2016.
-- Resilient network design: disjoint shortest path problem for power transmission application. With Amit Jha and Yuriy Zinchenko. 
+- [On the Cardinality of Positively Linearly Independent Sets](https://link.springer.com/article/10.1007/s11590-015-0959-3). With Warren Hare. *Optimization Letters* 10(4): 649-654, 2016.
+- [Optimal Transmission Network Topology for Resilient Power Supply](https://link.springer.com/chapter/10.1007/978-3-319-73758-4_10). With Yuriy Zinchenko and William Rosehart. *ILS* 2016.
+- Resilient Network Design: Disjoint Shortest Path Problem for Power Transmission Application. With Amit Jha and Yuriy Zinchenko. 
 
 ## Collaborators
 I have the privilege of working with and learning from my advisors and coauthors (listed alphabetically): [Maxime Cohen](https://maxccohen.github.io/), [Warren Hare](https://cmps.ok.ubc.ca/about/contact/warren-hare/), [Alexandre Jacquillat](https://mitmgmtfaculty.mit.edu/ajacquillat/), [Huihui Liu](http://shi.buaa.edu.cn/liuhuihui/en/index.htm), [Ilan Lobel](http://pages.stern.nyu.edu/~ilobel/), [Sébastien Martin](https://sebastienmartin.info/), [Lian Qi](https://www.business.rutgers.edu/faculty/lian-qi), [William Rosehart](https://www.gedcouncil.org/featured_dean/william-rosehart/), [Wenqiang Xiao](http://people.stern.nyu.edu/wxiao/), [Yuriy Zinchenko](https://profiles.ucalgary.ca/yuriy-zinchenko).
