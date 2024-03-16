@@ -41,4 +41,4 @@ Psychedelic rock
 - This genre stands out as my favorite within the rock spectrum.
 
 Cooking
-- My culinary skills are more than adequate for hosting a party.
+- No longer a hobby but I still maintain my culinary skills. Anything, you name it!
