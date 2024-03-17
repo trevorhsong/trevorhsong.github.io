@@ -5,12 +5,15 @@ author_profile: true
 classes: wide
 ---
 
-I used to have a lot of hobbies but now only persist in tennis. 
+I used to have a lot of hobbies but now only persist in tennis and music. 
 
 I play a one-handed backhand. The racquets I recommend are:
 - Wilson PS85, used by Pete Sampras
 - Wilson K90, used by Roger Federer
 - Head Prestige, used by Marat Safin
+
+I have a deep affection for music, particularly songs that evoke a sense of nostalgia, poignance, and melancholy. My musical preferences span several genres, with a particular fondness for Celtic, psychedelic rock, and sadcore.
+- Lake of Tears, a Swedish heavy metal group, was the first rock band that captured my attention. Among Chinese bands, Wubai & China Blue holds a special place in my heart, standing out as my favorite.
 
 ## Leisure interests in the old days...
 Film photography
@@ -34,9 +37,7 @@ Nintendo
 Hiking & camping 
 - Two quintessential outdoor activities in Canada! "The mountains are calling, and I must go." 
 
-Music & guitar
-- I have a deep affection for music, particularly songs that evoke a sense of nostalgia, poignance, and melancholy. My musical preferences span several genres, with a particular fondness for Celtic, psychedelic rock, and sadcore.
-- Lake of Tears, a Swedish heavy metal group, was the first rock band that captured my attention. Among Chinese bands, Wubai & China Blue holds a special place in my heart, standing out as my favorite.
+Guitar
 - Confined at home during the isolation period of COVID-19 in 2020, I turned to playing the guitar to ease my mental discomfort and alleviate feelings of depression. However, once the quarantine was lifted and public parks reopened, I shifted my focus and began playing tennis.
 
 Cooking
