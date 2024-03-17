@@ -34,9 +34,10 @@ Nintendo
 Hiking & camping 
 - Two quintessential outdoor activities in Canada! "The mountains are calling, and I must go." 
 
-Guitar & rock
+Music & guitar
+- I have a deep affection for music, particularly songs that evoke a sense of nostalgia, sadness, and melancholy. My musical preferences span several genres, with a particular fondness for Celtic, psychedelic rock, and sadcore.
+- Lake of Tears, a Swedish heavy metal group, was the first rock band that captured my attention. Among Chinese bands, Wubai & China Blue holds a special place in my heart, standing out as my favorite.
 - Confined at home during the isolation period of COVID-19 in 2020, I turned to playing the guitar to ease my mental discomfort and alleviate feelings of depression. However, once the quarantine was lifted and public parks reopened, I shifted my focus and began playing tennis.
-- Psychedelic rock stands out as my favourite genre within the rock spectrum.
 
 Cooking
 - No longer a hobby but I still maintain my culinary skills. Anything, you name it!
