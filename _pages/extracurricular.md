@@ -13,7 +13,8 @@ I play a one-handed backhand. The racquets I recommend are:
 - Head Prestige, used by Marat Safin
 
 I have a deep affection for music, particularly songs that evoke a sense of nostalgia, poignance, and melancholy. My musical preferences span several genres, with a particular fondness for Celtic, psychedelic rock, and sadcore.
-- Lake of Tears, a Swedish heavy metal group, was the first rock band that captured my attention. Among Chinese bands, Wubai & China Blue holds a special place in my heart, standing out as my favorite.
+- Lake of Tears, a Swedish heavy metal group, was the first rock band that captured my attention.
+- Among Chinese bands, Wubai & China Blue holds a special place in my heart, standing out as my favorite.
 
 ## Leisure interests in the old days...
 Film photography
