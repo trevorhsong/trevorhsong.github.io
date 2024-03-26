@@ -2,6 +2,7 @@
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+classes: wide
 ---
 
 I believe the optimal outcome of teaching lies in sparking students' innate curiosity within their hearts while simultaneously instilling key philosophies in their minds.
