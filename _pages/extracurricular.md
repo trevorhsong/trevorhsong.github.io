@@ -43,3 +43,4 @@ Guitar
 
 Cooking
 - No longer a hobby but I still maintain my culinary skills. Anything, you name it!
+{: .small}
