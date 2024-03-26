@@ -6,6 +6,7 @@ classes: wide
 ---
 
 I do incentive analysis and design incentive schemes to align interests and coordinate systems.
+{: .small}
 
 ## Some specific interests
 - Platform Operations and Marketplace Analytics
