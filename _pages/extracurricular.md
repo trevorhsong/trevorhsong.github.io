@@ -8,16 +8,20 @@ classes: wide
 I used to have a lot of hobbies but now only persist in tennis and music. 
 
 ## Still hang in there...
+
 <div style="font-size: 80%;">
-I play a one-handed backhand. The racquets I recommend are:
+
+  I play a one-handed backhand. The racquets I recommend are:
 
 - Wilson PS85, used by Pete Sampras
 - Wilson K90, used by Roger Federer
 - Head Prestige, used by Marat Safin
 
 I have a deep affection for music, particularly songs that evoke a sense of nostalgia, poignance, and melancholy. My musical preferences span several genres, with a particular fondness for Celtic, psychedelic rock, and sadcore.
+
 - Lake of Tears, a Swedish heavy metal group, was the first rock band that captured my attention.
 - Among Chinese bands, Wubai & China Blue holds a special place in my heart, standing out as my favorite.
+
 </div>
 
 ## Leisure interests in the old days...
