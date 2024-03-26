@@ -6,6 +6,7 @@ classes: wide
 ---
 
 I used to have a lot of hobbies but now only persist in tennis and music. 
+{: .small}
 
 ## Still hang in there...
 
