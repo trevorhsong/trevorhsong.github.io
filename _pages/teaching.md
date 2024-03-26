@@ -6,6 +6,7 @@ classes: wide
 ---
 
 I believe the optimal outcome of teaching lies in sparking students' innate curiosity within their hearts while simultaneously instilling key philosophies in their minds.
+{: .small}
 
 ## Lecture Notes
   * Stochastic Processes and Simulation. Credits to <a href="http://people.stern.nyu.edu/jreed/">Josh Reed</a>. Notes.
