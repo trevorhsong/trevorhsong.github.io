@@ -8,16 +8,22 @@ classes: wide
 I believe the optimal outcome of teaching lies in sparking students' innate curiosity within their hearts while simultaneously instilling key philosophies in their minds.
 {: .small}
 
+<span style="font-size: 13">
 ## Lecture Notes
+</span> 
   * Stochastic Processes and Simulation. Credits to <a href="http://people.stern.nyu.edu/jreed/">Josh Reed</a>. Notes.
   * Game-Theoretic Basis for Business Analytics. Under Construction. 
 {: .small}
 
+<span style="font-size: 13">
 ## Instructor
+</span>
   * Operations Management (Undergraduate Core), at NYU Stern, 2019. Evaluation: 4.3/5.0.
 {: .small}
-  
+
+<span style="font-size: 13">
 ## Teaching Fellow
+</span> 
   * NYU Stern: Decision Models (Undergrad & MBA), Decision under Risk (Master & MBA), Stochastic Processes and Simulation (Master), Stochastic Modelling and Simulation (Master), Revenue Management and Pricing (Master & MBA).
   * University of Calgary: Linear Methods, Calculus I II III, Calculus for Engineering. Discrete Mathematics.
 {: .small}
