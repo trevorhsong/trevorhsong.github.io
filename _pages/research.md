@@ -23,7 +23,7 @@ I do incentive analysis and design incentive schemes to align interests and coor
 - Contract Farming with Technology Provisions. With Jinxin Yang and Weihua Zhou.
 - [On the Cardinality of Positively Linearly Independent Sets](https://link.springer.com/article/10.1007/s11590-015-0959-3). With Warren Hare. *Optimization Letters* 10(4): 649-654, 2016.
 - [Optimal Transmission Network Topology for Resilient Power Supply](https://link.springer.com/chapter/10.1007/978-3-319-73758-4_10). With Yuriy Zinchenko and William Rosehart. *Information Systems, Logistics, and Supply Chain. Lecture Notes in Business Information Processing* 262:138-150, 2016.
-- Resilient Network Design: Disjoint Shortest Path Problem for Power Transmission Application. With Amit Jha and Yuriy Zinchenko. 
+- Resilient Network Design: Disjoint Shortest Path Problem for Power Transmission Application. With Amit Jha and Yuriy Zinchenko. *Systems* 2024.
 {: .small}
 
 ## Collaborators
