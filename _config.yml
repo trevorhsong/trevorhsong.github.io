@@ -21,8 +21,8 @@ title_separator: "|" # Separator for subpages
 subtitle: "Mo shùile togam suas" #appears in the masthead of the website
 description: >- # this means to ignore newlines until "next attribute:"
   Personal academic website of Haotian Song, professor at the School of Management, Zhejiang University.
-url: "https://ecru.github.io"
-repository: "trevorhsong/ecru.github.io"
+url: "https://trevorhsong.github.io"
+repository: "trevorhsong/trevorhsong.github.io"
 logo: "/assets/images/logo.png"
 
 email: hsong@stern.nyu.edu
