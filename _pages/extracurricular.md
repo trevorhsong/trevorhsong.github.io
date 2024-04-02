@@ -18,11 +18,25 @@ I play a one-handed backhand. The racquets I recommend are:
 - Head Prestige, used by Marat Safin
 {: .small}
 
-I have a deep affection for music, particularly songs that evoke a sense of nostalgia, poignance, and melancholy. My musical preferences span several genres, with a particular fondness for Celtic, psychedelic rock, and sadcore.
+I have a deep affection for music, particularly songs that evoke a sense of nostalgia, poignance, and melancholy. My musical taste was profoundly shaped by a series of five compilation albums during my middle school years. Released by a Chinese music magazine called "Music Heaven", these albums include:
+{: .small}
+
+- 《透过骨头抚摸你》 (Caressing You Through the Bones)
+- 《断弦的耳朵》 (Ears of Broken Strings)
+- 《踏刃而行》 (Treading on Blades)
+- 《今天画海下一天画蓝》 (Painting the Sea Today, Painting the Blue Tomorrow)
+- 《在最美的夜晚停留》 (Lingering in the Most Beautiful Night)
+{: .small}
+
+For a long time, whenever someone asked me who my favorite musician was, I would simply reply, "My favorite musician is called VA," (which stands for Various Artists). Sadly, Music Heaven magazine ceased publication in 2006.
+{: .small}
+
+My musical preferences span several genres, with a particular fondness for Celtic, psychedelic rock, and sadcore.
 {: .small}
 
 - Lake of Tears, a Swedish heavy metal group, was the first rock band that captured my attention.
 - Among Chinese bands, Wubai & China Blue holds a special place in my heart, standing out as my favorite.
+- I used to follow a podcast called "迷失音乐" hosted by 贺愉.
 {: .small}
 
 ## Leisure interests in the old days...
