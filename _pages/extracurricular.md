@@ -18,7 +18,7 @@ I play a one-handed backhand. The racquets I recommend are:
 - Head Prestige, used by Marat Safin
 {: .small}
 
-I have a deep affection for music, particularly songs that evoke a sense of nostalgia, poignance, and melancholy. My musical taste was profoundly shaped by a series of five compilation albums during my middle school years. Released by a Chinese music magazine called "Music Heaven", these albums include:
+I have a deep affection for music, particularly songs that evoke a sense of nostalgia, poignance, and melancholy. My musical taste was profoundly shaped by a series of five compilation albums during my middle school years. Released by a Chinese music magazine called "Music Heaven", this series includes:
 {: .small}
 
 - 《透过骨头抚摸你》 (Caressing You Through the Bones)
@@ -58,7 +58,7 @@ Downhill mountain biking
 - I fell in love with the classic Cannondale lefty in high school, and I started cross-country cycling and then shifted from XC to DH, a shift that brought increased danger and expense! In the summer of 2013, while downhilling in Calgary, I fell off a mountain and hung on a pine tree. My body was like a pencil stuck in a pencil sharpener, and a deep gash was cut on the left side of my head. Miraculously, my eyesight was spared. Since then, I have retired,  yet the nostalgia for those exhilarating days persists.
 {: .small}
 
-Table tennis & badminton
+Badminton & table tennis
 {: .small}
 
 - I started both in elementary school and played very frequently in high school. However, I have always felt that tennis overshadows them both.
