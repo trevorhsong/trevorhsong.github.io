@@ -18,7 +18,7 @@ I play a one-handed backhand. The racquets I recommend are:
 - Head Prestige, used by Marat Safin
 {: .small}
 
-I have a deep affection for music, particularly songs that evoke a sense of nostalgia, poignance, and melancholy. My musical taste was profoundly shaped by a series of five compilation albums during my middle school years. Released by a Chinese music magazine called "Music Heaven", this series includes:
+I have a deep affection for music, particularly songs that evoke a sense of nostalgia, poignance, and melancholy. My musical taste was profoundly shaped by a series of 5 compilation albums during my middle school years. Released by a Chinese music magazine called "Music Heaven", this series includes:
 {: .small}
 
 - 《透过骨头抚摸你》 (Caressing You Through the Bones)
