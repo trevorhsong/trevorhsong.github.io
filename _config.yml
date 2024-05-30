@@ -18,8 +18,9 @@ remote_theme: mmistakes/minimal-mistakes@4.22.0
 minimal_mistakes_skin: default # or use "default"
 title: *name # website title, also used in other places
 title_separator: "|" # Separator for subpages
-subtitle: 'Mo shùile togam suas 
-Créateurs de futurs depuis 1991' #appears in the masthead of the website
+subtitle: | 
+Mo shùile togam suas 
+Créateurs de futurs depuis 1991 #appears in the masthead of the website
 description: >- # this means to ignore newlines until "next attribute:"
   Personal academic website of Haotian Song, professor at the School of Management, Zhejiang University.
 url: "https://trevorhsong.github.io"
