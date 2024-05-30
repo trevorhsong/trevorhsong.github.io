@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "next attribute:"
   Personal academic website of Haotian Song, professor at the School of Management, Zhejiang University.
 url: "https://trevorhsong.github.io"
 repository: "trevorhsong/trevorhsong.github.io"
-logo: "/assets/images/logo.png"
+logo: "/assets/images/profile.png"
 
 email: hsong@stern.nyu.edu
 # twitter_username: username
