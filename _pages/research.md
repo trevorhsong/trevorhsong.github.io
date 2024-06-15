@@ -27,8 +27,8 @@ I do incentive analysis and design incentive schemes to align interests and coor
 {: .small}
 
 ## Thesis & Dissertation
-- [On a 2-Path Problem](https://prism.ucalgary.ca/items/a1e5a0e3-285d-4bf7-8d54-1a5204ae70ad). Master's Thesis.
 - [Game-Theoretical Modelling in Operations Management](https://www.proquest.com/docview/2731250033/70530DB092F048F7PQ/). Doctoral Dissertation.
+- [On a 2-Path Problem](https://prism.ucalgary.ca/items/a1e5a0e3-285d-4bf7-8d54-1a5204ae70ad). Master's Thesis.
 {: .small}
 
 ## Collaborators
