@@ -26,6 +26,11 @@ I do incentive analysis and design incentive schemes to align interests and coor
 - [Resilient Network Design: Disjoint Shortest Path Problem for Power Transmission Application](https://www.mdpi.com/2079-8954/12/4/117). With Amit Jha and Yuriy Zinchenko. *Systems* 12(4):117, 2024.
 {: .small}
 
+## Thesis & Dissertation
+- [On a 2-Path Problem](https://prism.ucalgary.ca/items/a1e5a0e3-285d-4bf7-8d54-1a5204ae70ad). Master's Thesis.
+- [Game-Theoretical Modelling in Operations Management](https://www.proquest.com/docview/2731250033/70530DB092F048F7PQ/). Doctoral Dissertation.
+{: .small}
+
 ## Collaborators
 I have the privilege of working with and learning from my advisors and coauthors (listed alphabetically): [Maxime Cohen](https://maxccohen.github.io/), [Warren Hare](https://cmps.ok.ubc.ca/about/contact/warren-hare/), [Alexandre Jacquillat](https://mitmgmtfaculty.mit.edu/ajacquillat/), [Huihui Liu](http://shi.buaa.edu.cn/liuhuihui/en/index.htm), [Ilan Lobel](http://pages.stern.nyu.edu/~ilobel/), [Sébastien Martin](https://sebastienmartin.info/), [Lian Qi](https://www.business.rutgers.edu/faculty/lian-qi), [William Rosehart](https://www.gedcouncil.org/featured_dean/william-rosehart/), [Wenqiang Xiao](http://people.stern.nyu.edu/wxiao/), [Yuriy Zinchenko](https://profiles.ucalgary.ca/yuriy-zinchenko).
 {: .small}
