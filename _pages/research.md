@@ -15,7 +15,7 @@ I do incentive analysis and design incentive schemes to align interests and coor
 {: .small}
 
 ## Papers
-- Supplier Credit Guarantee Signaling in Downstream Financing. With Huihui Liu and Wenqiang Xiao.
+- [Supplier Credit Guarantee Signaling in Downstream Financing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4902953). With Huihui Liu and Wenqiang Xiao.
 - Contract Farming with Technology Provisions. With Jinxin Yang and Weihua Zhou.
 - [Optimal Compensation under Inventory Delegation and Supply/Demand Mismatch](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3832363). With Wenqiang Xiao. 
 - [Price Discrimination and Inventory Allocation in Bertrand Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3732463). With Maxime Cohen and Alexandre Jacquillat. *Manufacturing & Service Operations Management* 25(1):148-167, 2023.
