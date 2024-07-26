@@ -15,9 +15,9 @@ I do incentive analysis and design incentive schemes to align interests and coor
 {: .small}
 
 ## Papers
-- [Supplier Credit Guarantee Signaling in Downstream Financing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4902953). With Huihui Liu and Wenqiang Xiao.
+- [Multi-Dimensional Signaling with Supplier Credit Guarantee](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4902953). With Huihui Liu and Wenqiang Xiao.
 - Contract Farming with Technology Provisions. With Jinxin Yang and Weihua Zhou.
-- [Optimal Compensation under Inventory Delegation and Supply/Demand Mismatch](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3832363). With Wenqiang Xiao. 
+- [Optimal Compensation under Inventory Delegation and Supply/Demand Mismatch](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3832363). With Guoming Lai and Wenqiang Xiao. 
 - [Price Discrimination and Inventory Allocation in Bertrand Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3732463). With Maxime Cohen and Alexandre Jacquillat. *Manufacturing & Service Operations Management* 25(1):148-167, 2023.
 - Coopetition in Platform-Based Retailing: On the Platform Entry. With Lian Qi and Wenqiang Xiao.
 - [Employees versus Contractors: An Operational Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878215). With Ilan Lobel and Sébastien Martin. *Manufacturing & Service Operations Management* 2024.
@@ -32,5 +32,5 @@ I do incentive analysis and design incentive schemes to align interests and coor
 {: .small}
 
 ## Collaborators
-I have the privilege of working with and learning from my advisors and coauthors (listed alphabetically): [Maxime Cohen](https://maxccohen.github.io/), [Warren Hare](https://cmps.ok.ubc.ca/about/contact/warren-hare/), [Alexandre Jacquillat](https://mitmgmtfaculty.mit.edu/ajacquillat/), [Huihui Liu](http://shi.buaa.edu.cn/liuhuihui/en/index.htm), [Ilan Lobel](http://pages.stern.nyu.edu/~ilobel/), [Sébastien Martin](https://sebastienmartin.info/), [Lian Qi](https://www.business.rutgers.edu/faculty/lian-qi), [William Rosehart](https://www.gedcouncil.org/featured_dean/william-rosehart/), [Wenqiang Xiao](http://people.stern.nyu.edu/wxiao/), [Yuriy Zinchenko](https://profiles.ucalgary.ca/yuriy-zinchenko).
+I have the privilege of working with and learning from my advisors and coauthors (listed alphabetically): [Maxime Cohen](https://maxccohen.github.io/), [Warren Hare](https://cmps.ok.ubc.ca/about/contact/warren-hare/), [Alexandre Jacquillat](https://mitmgmtfaculty.mit.edu/ajacquillat/), [Guoming Lai](http://guoming.us/), [Huihui Liu](http://shi.buaa.edu.cn/liuhuihui/en/index.htm), [Ilan Lobel](http://pages.stern.nyu.edu/~ilobel/), [Sébastien Martin](https://sebastienmartin.info/), [Lian Qi](https://www.business.rutgers.edu/faculty/lian-qi), [William Rosehart](https://www.gedcouncil.org/featured_dean/william-rosehart/), [Wenqiang Xiao](http://people.stern.nyu.edu/wxiao/), [Yuriy Zinchenko](https://profiles.ucalgary.ca/yuriy-zinchenko).
 {: .small}
