@@ -18,12 +18,12 @@ I do incentive analysis and design incentive schemes to align interests and coor
 - [Multi-Dimensional Signaling with Supplier Credit Guarantee](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4902953). With Huihui Liu and Wenqiang Xiao.
 - Contract Farming with Technology Provisions. With Jinxin Yang and Weihua Zhou.
 - [Optimal Salesforce Compensation with General Demand and Operational Considerations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3832363). With Guoming Lai and Wenqiang Xiao. 
-- [Price Discrimination and Inventory Allocation in Bertrand Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3732463). With Maxime Cohen and Alexandre Jacquillat. *Manufacturing & Service Operations Management* 25(1):148-167, 2023.
+- [Price Discrimination and Inventory Allocation in Bertrand Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3732463). With Maxime Cohen and Alexandre Jacquillat (2023) *Manufacturing & Service Operations Management* 25(1):148-167.
 - Coopetition in Platform-Based Retailing: On the Platform Entry. With Lian Qi and Wenqiang Xiao.
-- [Employees versus Contractors: An Operational Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878215). With Ilan Lobel and Sébastien Martin. *Manufacturing & Service Operations Management* 2024.
-- [On the Cardinality of Positively Linearly Independent Sets](https://link.springer.com/article/10.1007/s11590-015-0959-3). With Warren Hare. *Optimization Letters* 10(4):649-654, 2016.
-- [Optimal Transmission Network Topology for Resilient Power Supply](https://link.springer.com/chapter/10.1007/978-3-319-73758-4_10). With Yuriy Zinchenko and William Rosehart. *Information Systems, Logistics, and Supply Chain. Lecture Notes in Business Information Processing* 262:138-150, 2016.
-- [Resilient Network Design: Disjoint Shortest Path Problem for Power Transmission Application](https://www.mdpi.com/2079-8954/12/4/117). With Amit Jha and Yuriy Zinchenko. *Systems* 12(4):117, 2024.
+- [Frontiers in Operations: Employees vs. Contractors: An Operational Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878215). With Ilan Lobel and Sébastien Martin (2024) *Manufacturing & Service Operations Management* 26(4):1306-1322.
+- [On the Cardinality of Positively Linearly Independent Sets](https://link.springer.com/article/10.1007/s11590-015-0959-3). With Warren Hare (2016) *Optimization Letters* 10(4):649-654.
+- [Optimal Transmission Network Topology for Resilient Power Supply](https://link.springer.com/chapter/10.1007/978-3-319-73758-4_10). With Yuriy Zinchenko and William Rosehart (2016) *Information Systems, Logistics, and Supply Chain. Lecture Notes in Business Information Processing* 262:138-150.
+- [Resilient Network Design: Disjoint Shortest Path Problem for Power Transmission Application](https://www.mdpi.com/2079-8954/12/4/117). With Amit Jha and Yuriy Zinchenko (2024) *Systems* 12(4):117.
 {: .small}
 
 ## Thesis & Dissertation
