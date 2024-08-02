@@ -15,15 +15,15 @@ I do incentive analysis and design incentive schemes to align interests and coor
 {: .small}
 
 ## Papers
-- [Multi-Dimensional Signaling with Supplier Credit Guarantee](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4902953). With Huihui Liu and Wenqiang Xiao.
-- Contract Farming with Technology Provisions. With Jinxin Yang and Weihua Zhou.
-- [Optimal Salesforce Compensation with General Demand and Operational Considerations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3832363). With Guoming Lai and Wenqiang Xiao. 
-- [Price Discrimination and Inventory Allocation in Bertrand Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3732463). With Maxime Cohen and Alexandre Jacquillat (2023) *Manufacturing & Service Operations Management* 25(1):148-167.
-- Coopetition in Platform-Based Retailing: On the Platform Entry. With Lian Qi and Wenqiang Xiao.
-- [Frontiers in Operations: Employees vs. Contractors: An Operational Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878215). With Ilan Lobel and Sébastien Martin (2024) *Manufacturing & Service Operations Management* 26(4):1306-1322.
-- [On the Cardinality of Positively Linearly Independent Sets](https://link.springer.com/article/10.1007/s11590-015-0959-3). With Warren Hare (2016) *Optimization Letters* 10(4):649-654.
-- [Optimal Transmission Network Topology for Resilient Power Supply](https://link.springer.com/chapter/10.1007/978-3-319-73758-4_10). With Yuriy Zinchenko and William Rosehart (2016) *Information Systems, Logistics, and Supply Chain. Lecture Notes in Business Information Processing* 262:138-150.
-- [Resilient Network Design: Disjoint Shortest Path Problem for Power Transmission Application](https://www.mdpi.com/2079-8954/12/4/117). With Amit Jha and Yuriy Zinchenko (2024) *Systems* 12(4):117.
+- Huihui Liu, Haotian Song, Wenqiang Xiao (2024) [Multi-Dimensional Signaling with Supplier Credit Guarantee](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4902953).
+- Jinxin Yang, Haotian Song, Weihua Zhou (2024) Contract Farming with Technology Provisions.
+- Haotian Song, Guoming Lai, Wenqiang Xiao (2024) [Optimal Salesforce Compensation with General Demand and Operational Considerations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3832363). 
+- Maxime Cohen, Alexandre Jacquillat, Haotian Song (2023) Price Discrimination and Inventory Allocation in Bertrand Competition. *Manufacturing & Service Operations Management* 25(1):148-167. [Complete Appendix](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3732463)
+- Lian Qi, Haotian Song, Wenqiang Xiao (2024) Coopetition in Platform-Based Retailing: On the Platform Entry.
+- Ilan Lobel, Sébastien Martin, Haotian Song (2024) Frontiers in Operations: Employees vs. Contractors: An Operational Perspective. *Manufacturing & Service Operations Management* 26(4):1306-1322. [Complete Appendix](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878215)
+- Warren Hare, Haotian Song (2016) [On the Cardinality of Positively Linearly Independent Sets](https://link.springer.com/article/10.1007/s11590-015-0959-3). *Optimization Letters* 10(4):649-654.
+- Yuriy Zinchenko, Haotian Song, William Rosehart (2016) [Optimal Transmission Network Topology for Resilient Power Supply](https://link.springer.com/chapter/10.1007/978-3-319-73758-4_10). *Information Systems, Logistics, and Supply Chain. Lecture Notes in Business Information Processing* 262:138-150.
+- Amit Jha, Haotian Song, Yuriy Zinchenko (2024) [Resilient Network Design: Disjoint Shortest Path Problem for Power Transmission Application](https://www.mdpi.com/2079-8954/12/4/117). *Systems* 12(4):117.
 {: .small}
 
 ## Thesis & Dissertation
