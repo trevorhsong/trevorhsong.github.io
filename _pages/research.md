@@ -15,8 +15,8 @@ I do incentive analysis and design incentive schemes to align interests and coor
 {: .small}
 
 ## Papers
+- Jinxin Yang, Haotian Song, Weihua Zhou (2024) Cultivating Quality: The Impact of Technology Provision on Agricultural Supply Chains.
 - Huihui Liu, Haotian Song, Wenqiang Xiao (2024) [Multi-Dimensional Signaling with Supplier Credit Guarantee](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4902953). *Submitted*.
-- Jinxin Yang, Haotian Song, Weihua Zhou (2024) Contract Farming with Technology Provisions.
 - Haotian Song, Guoming Lai, Wenqiang Xiao (2024) [Optimal Salesforce Compensation with General Demand and Operational Considerations](https://pages.stern.nyu.edu/~wxiao/Contracting_under_Delegation_and_Mismatch__short_version.pdf). *Accepted by Manufacturing & Service Operations Management*.  
 - Maxime Cohen, Alexandre Jacquillat, Haotian Song (2023) [Price Discrimination and Inventory Allocation in Bertrand Competition](https://doi.org/10.1287/msom.2022.1146). *Manufacturing & Service Operations Management* 25(1):148-167. [Complete Appendix](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3732463)
 - Lian Qi, Haotian Song, Wenqiang Xiao (2024) [Coopetition in Platform-Based Retailing: On the Platform's Entry](https://doi.org/10.1287/mnsc.2023.00260). *Management Science*.
