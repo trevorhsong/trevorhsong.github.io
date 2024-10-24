@@ -6,6 +6,7 @@ classes: wide
 ---
 
 I do incentive analysis and design incentive schemes to align interests and coordinate systems.
+I like parsimonious models.
 {: .small}
 
 ## Some specific interests
