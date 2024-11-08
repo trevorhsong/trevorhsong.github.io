@@ -35,3 +35,4 @@ I like parsimonious models.
 ## Collaborators
 I have the privilege of working with and learning from my advisors and coauthors (listed alphabetically): [Maxime Cohen](https://maxccohen.github.io/), [Warren Hare](https://cmps.ok.ubc.ca/about/contact/warren-hare/), [Alex Jacquillat](https://mitmgmtfaculty.mit.edu/ajacquillat/), [Guoming Lai](http://guoming.us/), [Huihui Liu](http://shi.buaa.edu.cn/liuhuihui/en/index.htm), [Ilan Lobel](http://pages.stern.nyu.edu/~ilobel/), [Sébastien Martin](https://sebastienmartin.info/), [Lian Qi](https://www.business.rutgers.edu/faculty/lian-qi), [Bill Rosehart](https://www.gedcouncil.org/featured_dean/william-rosehart/), [Wenqiang Xiao](http://people.stern.nyu.edu/wxiao/), [Yuriy Zinchenko](https://profiles.ucalgary.ca/yuriy-zinchenko).
 {: .small}
+My Erdős number is 4: Paul Erdős → David Michael Avis → Antoine Deza → Yuriy Zinchenko → Haotian Song
