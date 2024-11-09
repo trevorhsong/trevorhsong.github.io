@@ -26,5 +26,5 @@ I believe the optimal outcome of teaching lies in sparking students' innate curi
 
 ## Teaching Fellow
   * NYU Stern: Decision Models (Undergrad & MBA), Decision under Risk (Master & MBA), Stochastic Processes and Simulation (Master), Stochastic Modelling and Simulation (Master), Revenue Management and Pricing (Master & MBA).
-  * University of Calgary: Linear Methods, Calculus I II III, Calculus for Engineering. Discrete Mathematics.
+  * University of Calgary: Linear Methods, Calculus I II III, Calculus for Engineering, Discrete Mathematics, Optimization Theory and Applications.
 {: .small}
