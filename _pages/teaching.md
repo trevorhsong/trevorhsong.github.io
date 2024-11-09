@@ -14,7 +14,14 @@ I believe the optimal outcome of teaching lies in sparking students' innate curi
 {: .small}
 
 ## Instructor
-  * Operations Management (Undergraduate Core), at NYU Stern, 2019. Evaluation: 4.3/5.0.
+  * 2024 Winter at ZJU SOM: Game Theory and Information Economics (Undergraduate).
+  * 2024 Autumn at ZJU SOM: Mangerial Economics (MPAcc).
+  * 2024 Summer at ZJU SOM: Python Basis for Business Data Analytics (Undergraduate).
+  * 2024 Spring at ZJU SOM: Operations Management (Undergraduate).
+  * 2023 Winter at ZJU SOM: Academic Writing (QTEM), Game Theory (QTEM), Information Economics and Contract Theory (PhD).
+  * 2023 Summer at ZJU SOM: Decision-Making in Management: Theory and Methods (Undergraduate).
+  * 2022 Winter at ZJU SOM: Academic Writing (QTEM).
+  * 2019 Summer at NYU Stern: Operations Management (Undergraduate Core), at NYU Stern. Evaluation: 4.3/5.0.
 {: .small}
 
 ## Teaching Fellow
