@@ -24,7 +24,7 @@ At ZJU SOM:
   * 2022 Winter: Academic Writing (QTEM).
 
 Other:
-  * 2019 Summer at NYU Stern: Operations Management (Undergraduate Core), at NYU Stern. Evaluation: 4.3/5.0.
+  * 2019 Summer at NYU Stern: Operations Management (Undergraduate Core). Evaluation: 4.3/5.0.
 {: .small}
 
 ## Teaching Fellow
