@@ -14,7 +14,7 @@ I believe the optimal outcome of teaching lies in sparking students' innate curi
 {: .small}
 
 ## Instructor
-At ZJU SOM:
+At ZJU SOM:{: .small}
   * 2024 Winter: Game Theory and Information Economics (Undergraduate).
   * 2024 Autumn: Mangerial Economics (MPAcc).
   * 2024 Summer: Python Basis for Business Data Analytics (Undergraduate).
@@ -23,7 +23,7 @@ At ZJU SOM:
   * 2023 Summer: Decision-Making in Management: Theory and Methods (Undergraduate).
   * 2022 Winter: Academic Writing (QTEM).
 {: .small}
-Other:
+Other:{: .small}
   * 2019 Summer at NYU Stern: Operations Management (Undergraduate Core). Evaluation: 4.3/5.0.
 {: .small}
 
