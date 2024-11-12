@@ -22,7 +22,7 @@ At ZJU SOM:
   * 2023 Winter: Academic Writing (QTEM), Game Theory (QTEM), Information Economics and Contract Theory (PhD).
   * 2023 Summer: Decision-Making in Management: Theory and Methods (Undergraduate).
   * 2022 Winter: Academic Writing (QTEM).
-
+{: .small}
 Other:
   * 2019 Summer at NYU Stern: Operations Management (Undergraduate Core). Evaluation: 4.3/5.0.
 {: .small}
