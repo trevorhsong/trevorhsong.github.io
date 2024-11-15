@@ -18,7 +18,7 @@ I like parsimonious models.
 ## Papers
 - Jinxin Yang, Haotian Song, Weihua Zhou (2024) Cultivating Quality: The Impact of Technology Provision on Agricultural Supply Chains. 
 - Huihui Liu, Haotian Song, Wenqiang Xiao (2024) [Multi-Dimensional Signaling with Supplier Credit Guarantee](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4902953). *Major at somewhere*.
-- Haotian Song, Guoming Lai, Wenqiang Xiao (2024) [Optimal Salesforce Compensation with General Demand and Operational Considerations](https://doi.org/10.1287/msom.2022.0400). *Manufacturing & Service Operations Management*.  
+- Haotian Song, Guoming Lai, Wenqiang Xiao (2024) [Optimal Salesforce Compensation with General Demand and Operational Considerations](https://doi.org/10.1287/msom.2022.0400). *Manufacturing & Service Operations Management* 26(6):2274–2283.  
 - Maxime C. Cohen, Alexandre Jacquillat, Haotian Song (2023) [Price Discrimination and Inventory Allocation in Bertrand Competition](https://doi.org/10.1287/msom.2022.1146). *Manufacturing & Service Operations Management* 25(1):148-167. [Complete Appendix](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3732463)
 - Lian Qi, Haotian Song, Wenqiang Xiao (2024) [Coopetition in Platform-Based Retailing: On the Platform's Entry](https://doi.org/10.1287/mnsc.2023.00260). *Management Science*.
 - Ilan Lobel, Sébastien Martin, Haotian Song (2024) [Frontiers in Operations: Employees vs. Contractors: An Operational Perspective](https://doi.org/10.1287/msom.2023.0029). *Manufacturing & Service Operations Management* 26(4):1306-1322. [Complete Appendix](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878215)
