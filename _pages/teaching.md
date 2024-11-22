@@ -24,7 +24,7 @@ I believe the optimal outcome of teaching lies in sparking students' innate curi
   * 2023 Summer: Decision-Making in Management: Theory and Methods (Undergraduate).
   * 2022 Winter: Academic Writing (QTEM).
 {: .small}
-## Other
+<b>Other</b>
 {: .small}
   * 2019 Summer at NYU Stern: Operations Management (Undergraduate Core). Evaluation: 4.3/5.0.
 {: .small}
