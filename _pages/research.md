@@ -16,7 +16,7 @@ I like parsimonious models.
 {: .small}
 
 ## Papers
-## Journal
+<b>Journal</b>
 {: .small}
 - Jinxin Yang, Haotian Song, Weihua Zhou (2024) Cultivating Quality: The Impact of Technology Provision on Agricultural Supply Chains. 
 - Huihui Liu, Haotian Song, Wenqiang Xiao (2024) [Multi-Dimensional Signaling with Supplier Credit Guarantee](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4902953). *Major at somewhere*.
@@ -27,7 +27,7 @@ I like parsimonious models.
 - Warren Hare, Haotian Song (2016) [On the Cardinality of Positively Linearly Independent Sets](https://link.springer.com/article/10.1007/s11590-015-0959-3). *Optimization Letters* 10(4):649-654.
 - Amit Jha, Haotian Song, Yuriy Zinchenko (2024) [Resilient Network Design: Disjoint Shortest Path Problem for Power Transmission Application](https://www.mdpi.com/2079-8954/12/4/117). *Systems* 12(4):117.
 {: .small}
-## Conference
+<b>Conference</b>
 {: .small}
 - Yuriy Zinchenko, Haotian Song, William Rosehart (2016) [Optimal Transmission Network Topology for Resilient Power Supply](https://link.springer.com/chapter/10.1007/978-3-319-73758-4_10). *Information Systems, Logistics, and Supply Chain. Lecture Notes in Business Information Processing* 262:138-150.
 {: .small}
