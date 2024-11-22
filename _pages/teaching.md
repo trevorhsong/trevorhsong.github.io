@@ -14,7 +14,7 @@ I believe the optimal outcome of teaching lies in sparking students' innate curi
 {: .small}
 
 ## Instructor
-## At ZJU SOM
+<b>At ZJU SOM</b>
 {: .small}
   * 2024 Winter: Game Theory and Information Economics (Undergraduate).
   * 2024 Autumn: Mangerial Economics (MPAcc).
