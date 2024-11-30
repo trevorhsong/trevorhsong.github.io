@@ -9,7 +9,7 @@ I believe the optimal outcome of teaching lies in sparking students' innate curi
 {: .small}
 
 ## Lecture Notes
-  * Stochastic Processes and Simulation. Credits to <a href="http://people.stern.nyu.edu/jreed/">Josh Reed</a>. Notes.
+  * Stochastic Processes and Simulation. Credits to <a href="http://people.stern.nyu.edu/jreed/">Josh Reed</a>. <a href="assets/Lecture2019.pdf">Notes</a>.
   * Game-Theoretic Basis for Business Analytics. Under Construction. 
 {: .small}
 
