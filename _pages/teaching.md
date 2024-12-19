@@ -19,6 +19,10 @@ I believe the optimal outcome of teaching lies in sparking students' innate curi
   * [Principles of Managerial Economics](https://trevorhsong.github.io/text_principles-of-managerial-economics/)
   * [Introduction to Economic Analysis](https://trevorhsong.github.io/text_introduction-to-economic-analysis)
   * [Economics: Theory Through Applications](https://trevorhsong.github.io/text_economics-theory-through-applications)
+{: .small}
+
+For someone who wants to learn info econ, I strongly recommend the [notes](https://www.kellogg.northwestern.edu/faculty/georgiadis/Ec515.html) by [George Georgiadis](https://www.kellogg.northwestern.edu/faculty/georgiadis/index.html). 
+{: .small}
 
 ## Instructor
 <b>At ZJU SOM</b>
