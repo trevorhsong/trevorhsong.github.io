@@ -13,8 +13,12 @@ I believe the optimal outcome of teaching lies in sparking students' innate curi
   * Game-Theoretic Basis for Business Analytics. Under Construction. 
 {: .small}
 
-[Note](https://trevorhsong.github.io/text_principles-of-managerial-economics/)
-
+<b>Great notes from Saylor Academy</b>
+{: .small}
+  * [Principles of Economics](https://trevorhsong.github.io/text_principles-of-economics-v2.0)
+  * [Principles of Managerial Economics](https://trevorhsong.github.io/text_principles-of-managerial-economics/)
+  * [Introduction to Economic Analysis](https://trevorhsong.github.io/text_introduction-to-economic-analysis)
+  * [Economics: Theory Through Applications](https://trevorhsong.github.io/text_economics-theory-through-applications)
 
 ## Instructor
 <b>At ZJU SOM</b>
