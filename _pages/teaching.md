@@ -13,8 +13,7 @@ I believe the optimal outcome of teaching lies in sparking students' innate curi
   * Game-Theoretic Basis for Business Analytics. Under Construction. 
 {: .small}
 
-<p><a href="../../text_principles-of-managerial-economics/index.html">Note</a></p>
-
+[Note](https://github.com/trevorhsong/text_principles-of-managerial-economics/blob/master/index.html)
 
 
 ## Instructor
