@@ -16,7 +16,7 @@ I believe the optimal outcome of teaching lies in sparking students' innate curi
 For someone who wants to learn info econ, I strongly recommend the [notes](https://www.kellogg.northwestern.edu/faculty/georgiadis/Ec515.html) by [George Georgiadis](https://www.kellogg.northwestern.edu/faculty/georgiadis/index.html). 
 {: .small}
 
-<b>Great notes from Saylor Academy</b>
+<b>Great notes from [Saylor Academy](https://learn.saylor.org/)</b>
 {: .small}
   * [Principles of Economics](https://trevorhsong.github.io/text_principles-of-economics-v2.0)
   * [Principles of Managerial Economics](https://trevorhsong.github.io/text_principles-of-managerial-economics/)
