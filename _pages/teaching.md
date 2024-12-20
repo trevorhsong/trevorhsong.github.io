@@ -13,7 +13,7 @@ I believe the optimal outcome of teaching lies in sparking students' innate curi
   * Game-Theoretic Basis for Business Analytics. Under Construction. 
 {: .small}
 
-For someone who wants to learn info econ, I strongly recommend the [EC515 notes](https://www.kellogg.northwestern.edu/faculty/georgiadis/Ec515.html) by [George Georgiadis](https://www.kellogg.northwestern.edu/faculty/georgiadis/index.html). 
+For someone who wants to learn info econ, I strongly recommend the [notes](https://www.kellogg.northwestern.edu/faculty/georgiadis/Ec515.html) by [George Georgiadis](https://www.kellogg.northwestern.edu/faculty/georgiadis/index.html). 
 {: .small}
 
 <b>Great online notes from [Saylor Academy](https://learn.saylor.org/)</b>
