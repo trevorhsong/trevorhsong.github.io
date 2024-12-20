@@ -16,12 +16,12 @@ I believe the optimal outcome of teaching lies in sparking students' innate curi
 For someone who wants to learn info econ, I strongly recommend the [notes](https://www.kellogg.northwestern.edu/faculty/georgiadis/Ec515.html) by [George Georgiadis](https://www.kellogg.northwestern.edu/faculty/georgiadis/index.html). 
 {: .small}
 
-<b>Great notes from [Saylor Academy](https://learn.saylor.org/)</b>
+<b>Great online notes from [Saylor Academy](https://learn.saylor.org/)</b>
 {: .small}
-  * [Principles of Economics](https://trevorhsong.github.io/text_principles-of-economics-v2.0)
-  * [Principles of Managerial Economics](https://trevorhsong.github.io/text_principles-of-managerial-economics/)
-  * [Introduction to Economic Analysis](https://trevorhsong.github.io/text_introduction-to-economic-analysis)
-  * [Economics: Theory Through Applications](https://trevorhsong.github.io/text_economics-theory-through-applications)
+  * Principles of Economics. [Link](https://trevorhsong.github.io/text_principles-of-economics-v2.0)
+  * Principles of Managerial Economics. [Link](https://trevorhsong.github.io/text_principles-of-managerial-economics/)
+  * Introduction to Economic Analysis. [Link](https://trevorhsong.github.io/text_introduction-to-economic-analysis)
+  * Economics: Theory Through Applications. [Link](https://trevorhsong.github.io/text_economics-theory-through-applications)
 {: .small}
 
 ## Instructor
