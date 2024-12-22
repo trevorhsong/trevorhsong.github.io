@@ -16,7 +16,8 @@ I believe the optimal outcome of teaching lies in sparking students' innate curi
 For someone who wants to learn info econ, I strongly recommend the [notes](https://www.kellogg.northwestern.edu/faculty/georgiadis/Ec515.html) by [George Georgiadis](https://www.kellogg.northwestern.edu/faculty/georgiadis/index.html). 
 {: .small}
 
-[Kim C. Border](https://www.caltech.edu/about/news/caltech-mourns-the-passing-of-professor-kim-border-19522020) was a preeminent mathematical economist and economic mathematician. Thanks to [Paul J. Healy](https://healy.econ.ohio-state.edu/), the [Kim C. Border Repository](https://healy.econ.ohio-state.edu/kcb/) has been preserved till now. 
+[Kim C. Border](https://www.caltech.edu/about/news/caltech-mourns-the-passing-of-professor-kim-border-19522020) was a preeminent mathematical economist and economic mathematician. Thanks to [Paul J. Healy](https://healy.econ.ohio-state.edu/), [Border's Repository](https://healy.econ.ohio-state.edu/kcb/) has been preserved till now. 
+{: .small}
 
 <b>Great online notes from [Saylor Academy](https://learn.saylor.org/)</b>
 {: .small}
