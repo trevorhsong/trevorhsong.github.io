@@ -30,6 +30,8 @@ For someone who wants to learn info econ, I strongly recommend the [notes](https
 ## Instructor
 <b>At ZJU SOM</b>
 {: .small}
+  * 2025 Summer: Python Basis for Business Data Analytics (Undergraduate).
+  * 2025 Spring: Operations Management (Undergraduate).
   * 2024 Winter: Game Theory and Information Economics (Undergraduate).
   * 2024 Autumn: Mangerial Economics (MPAcc).
   * 2024 Summer: Python Basis for Business Data Analytics (Undergraduate).
