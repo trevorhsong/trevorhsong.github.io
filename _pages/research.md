@@ -18,8 +18,8 @@ I like parsimonious models.
 ## Papers
 <b>Journal</b>
 {: .small}
-- Jiadong Gu, Haotian Song (2025) Curating Variety: Platform Design under Buyer Learning and Seller Competition.
-- Jinxin Yang, Haotian Song, Weihua Zhou (2025) Contract Farming with Technology Provision: Quality, Profitability, and the Role of Government Subsidies. 
+- Jiadong Gu, Haotian Song (2025) Curating Variety: Platform Design under Buyer Learning and Seller Competition. *In progress*.
+- Jinxin Yang, Haotian Song, Weihua Zhou (2025) Contract Farming with Technology Provision: Quality, Profitability, and the Role of Government Subsidies. *Submitted*.
 - Huihui Liu, Haotian Song, Wenqiang Xiao (2025) [Multi-Dimensional Signaling with Supplier Credit Guarantee](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4902953). *Major somewhere*.
 - Lian Qi, Haotian Song, Wenqiang Xiao (2025) [Coopetition in Platform-Based Retailing: On the Platform's Entry](https://doi.org/10.1287/mnsc.2023.00260). *Management Science*.
 - Haotian Song, Guoming Lai, Wenqiang Xiao (2024) [Optimal Salesforce Compensation with General Demand and Operational Considerations](https://doi.org/10.1287/msom.2022.0400). *Manufacturing & Service Operations Management* 26(6):2274–2283.
