@@ -30,7 +30,7 @@ I like parsimonious models.
 {: .small}
 <b>Conference</b>
 {: .small}
-- Peng Zhang, Yuan Li, Haotian Song, Yankai Jiang, Yubo Tao, Hai Lin, Hongguang Cui (2025) SIGraph: Saliency Image-Graph Network for Retinal Disease Classiffcation in Fundus Image. *AAAI*.
+- Peng Zhang, Yuan Li, Haotian Song, Yankai Jiang, Yubo Tao, Hai Lin, Hongguang Cui (2025) SIGraph: Saliency Image-Graph Network for Retinal Disease Classification in Fundus Image. *AAAI*.
 - Yuriy Zinchenko, Haotian Song, William Rosehart (2016) [Optimal Transmission Network Topology for Resilient Power Supply](https://link.springer.com/chapter/10.1007/978-3-319-73758-4_10). *Information Systems, Logistics, and Supply Chain. Lecture Notes in Business Information Processing* 262:138-150.
 {: .small}
 
