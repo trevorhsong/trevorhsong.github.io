@@ -10,8 +10,8 @@ I like parsimonious models.
 {: .small}
 
 ## Some specific interests
-- Platform Operations and Marketplace Analytics
-- Supply Chain Management and Finance Interface
+- Platform Operations, Economics and Governance
+- Supply Chain Finance and Agrifood Supply Chain Management
 - Contract Theory and Optimization in Economics
 {: .small}
 
