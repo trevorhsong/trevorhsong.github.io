@@ -11,8 +11,8 @@ I like parsimonious models.
 
 ## Some specific interests
 - Platform Operations, Economics and Governance
-- Supply Chain Finance and Agrifood Supply Chain Management
-- Contract Theory and Optimization in Economics
+- Supply Chain Finance, Agrifood Supply Chain Management
+- Contract Theory, Mathematical Programming with Equilibrium Constraints
 {: .small}
 
 ## Papers
