@@ -16,9 +16,7 @@ I like parsimonious models.
 {: .small}
 
 ## Papers
-<b>Journal</b>
-{: .small}
-- Jiadong Gu, Haotian Song (2025) Curation Platform Design: When Does Transparency Backfire? *In progress*.
+- Jiadong Gu, Haotian Song (2025) Curation Platform Design: Is Transparency Always Beneficial? *In progress*.
 - Jinxin Yang, Haotian Song, Weihua Zhou (2025) Contract Farming with Technology Provision: Quality, Profitability, and the Role of Government Subsidies. *Submitted*.
 - Huihui Liu, Haotian Song, Wenqiang Xiao (2025) [Multi-Dimensional Signaling with Supplier Credit Guarantees](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4902953). *Major somewhere*.
 - Lian Qi, Haotian Song, Wenqiang Xiao (2025) [Coopetition in Platform-Based Retailing: On the Platform's Entry](https://doi.org/10.1287/mnsc.2023.00260). *Management Science* 71(5):4013-4027.
@@ -28,8 +26,8 @@ I like parsimonious models.
 - Warren Hare, Haotian Song (2016) [On the Cardinality of Positively Linearly Independent Sets](https://link.springer.com/article/10.1007/s11590-015-0959-3). *Optimization Letters* 10(4):649-654.
 - Amit Jha, Haotian Song, Yuriy Zinchenko (2024) [Resilient Network Design: Disjoint Shortest Path Problem for Power Transmission Application](https://www.mdpi.com/2079-8954/12/4/117). *Systems* 12(4):117.
 {: .small}
-<b>Conference</b>
-{: .small}
+
+## Conference
 - Peng Zhang, Yuan Li, Haotian Song, Yankai Jiang, Yubo Tao, Hai Lin, Hongguang Cui (2025) [SIGraph: Saliency Image-Graph Network for Retinal Disease Classification in Fundus Image](https://doi.org/10.1609/aaai.v39i10.33090). *Proceedings of the AAAI Conference on Artificial Intelligence* 39(10):10049-10057.
 - Yuriy Zinchenko, Haotian Song, William Rosehart (2016) [Optimal Transmission Network Topology for Resilient Power Supply](https://link.springer.com/chapter/10.1007/978-3-319-73758-4_10). *Information Systems, Logistics, and Supply Chain. Lecture Notes in Business Information Processing* 262:138-150.
 {: .small}
