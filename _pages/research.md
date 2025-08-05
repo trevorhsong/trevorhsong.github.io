@@ -17,7 +17,7 @@ I like parsimonious ("素") models.
 
 ## Journal papers
 - Jinxin Yang, Duo Shi, Haotian Song (2025) *In progress*.
-- Jiadong Gu, Haotian Song (2025) Curation Platform Design. *In progress*.
+- Jiadong Gu, Haotian Song (2025) Curation Platform Design: Variety, Seller Competition and Learning Delegation. *In progress*.
 - Jinxin Yang, Haotian Song, Weihua Zhou (2025) Contract Farming with Technology Provision: Quality, Profitability, and the Role of Government Subsidies. *In progress*.
 - Huihui Liu, Haotian Song, Wenqiang Xiao (2025) [Multi-Dimensional Signaling with Supplier Credit Guarantees](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4902953). *Minor somewhere*.
 - Lian Qi, Haotian Song, Wenqiang Xiao (2025) [Coopetition in Platform-Based Retailing: On the Platform's Entry](https://doi.org/10.1287/mnsc.2023.00260). *Management Science* 71(5):4013-4027.
