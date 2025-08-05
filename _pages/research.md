@@ -6,19 +6,20 @@ classes: wide
 ---
 
 I do incentive analysis and design incentive schemes to align interests and coordinate systems.
-I like parsimonious models.
+I like parsimonious ("素") models.
 {: .small}
 
 ## Some specific interests
 - Platform Operations, Economics and Governance
-- Supply Chain Finance, Agrifood Supply Chain Management
+- Supply Chain Management (Agrifood, Finance interfaces)
 - Contract Theory, Mathematical Programming with Equilibrium Constraints
 {: .small}
 
 ## Journal papers
-- Jiadong Gu, Haotian Song (2025) Curation Platform Design: Is Transparency Always Beneficial? *In progress*.
-- Jinxin Yang, Haotian Song, Weihua Zhou (2025) Contract Farming with Technology Provision: Quality, Profitability, and the Role of Government Subsidies. *Submitted*.
-- Huihui Liu, Haotian Song, Wenqiang Xiao (2025) [Multi-Dimensional Signaling with Supplier Credit Guarantees](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4902953). *Major somewhere*.
+- Jinxin Yang, Duo Shi, Haotian Song (2025) *In progress*.
+- Jiadong Gu, Haotian Song (2025) Curation Platform Design. *In progress*.
+- Jinxin Yang, Haotian Song, Weihua Zhou (2025) Contract Farming with Technology Provision: Quality, Profitability, and the Role of Government Subsidies. *In progress*.
+- Huihui Liu, Haotian Song, Wenqiang Xiao (2025) [Multi-Dimensional Signaling with Supplier Credit Guarantees](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4902953). *Minor somewhere*.
 - Lian Qi, Haotian Song, Wenqiang Xiao (2025) [Coopetition in Platform-Based Retailing: On the Platform's Entry](https://doi.org/10.1287/mnsc.2023.00260). *Management Science* 71(5):4013-4027.
 - Haotian Song, Guoming Lai, Wenqiang Xiao (2024) [Optimal Salesforce Compensation with General Demand and Operational Considerations](https://doi.org/10.1287/msom.2022.0400). *Manufacturing & Service Operations Management* 26(6):2274–2283.
 - Ilan Lobel, Sébastien Martin, Haotian Song (2024) [Frontiers in Operations: Employees vs. Contractors: An Operational Perspective](https://doi.org/10.1287/msom.2023.0029). *Manufacturing & Service Operations Management* 26(4):1306-1322. [Complete Appendix](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878215)
