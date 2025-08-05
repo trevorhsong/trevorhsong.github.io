@@ -10,9 +10,9 @@ I like parsimonious ("素") models.
 {: .small}
 
 ## Some specific interests
-- Platform Operations, Economics and Governance
-- Supply Chain Management (Agrifood, Finance interfaces)
-- Contract Theory, Mathematical Programming with Equilibrium Constraints
+- Platform Ecosystems: Operations, Economics, and Governance
+- Supply Chain Management: Marketing/Finance Interfaces, Agri-Food Value Chains
+- Economic Optimization: Contract Theory, Mathematical Programming with Equilibrium Constraints
 {: .small}
 
 ## Journal papers
