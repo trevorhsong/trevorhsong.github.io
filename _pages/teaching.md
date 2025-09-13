@@ -30,7 +30,7 @@ For someone who wants to learn info econ, I strongly recommend the [notes](https
 ## Instructor
 <b>At ZJU SOM</b>
 {: .small}
-  * 2025 Autumn: Mangerial Economics (GMBA), Game Theory and Information Economics (Undergraduate), Information Economics and Contract Theory (PhD).
+  * 2025 Autumn: Mangerial Economics (GMBA), Game Theory and Information Economics (Undergraduate).
   * 2025 Summer: Python Basis for Business Data Analytics (Undergraduate).
   * 2025 Spring: Operations Management (Undergraduate).
   * 2024 Winter: Game Theory and Information Economics (Undergraduate).
