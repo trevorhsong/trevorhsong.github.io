@@ -10,7 +10,7 @@ I like parsimonious models.
 {: .small}
 
 ## Some specific interests
-- Incentives in Operations: Platform Operations, Supply Chain Finance
+- Incentives in Operations: Platform Ecosystem, Supply Chain Finance, Agro-Industrial Supply Chains
 - Optimization in Economics: Contract Theory, Mathematical Programming with Equilibrium Constraints
 {: .small}
 
