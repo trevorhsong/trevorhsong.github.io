@@ -16,7 +16,7 @@ I like parsimonious models.
 
 ## Journal papers
 - Jinxin Yang, Haotian Song, Weihua Zhou (2025) Contract Farming with Technology Provision: Quality, Profitability, and the Role of Government Subsidies. *In progress*.
-- Huihui Liu, Ying-Ju Chen, Haotian Song (2025) [To Learn the Upstream or Not: Supplier Emissions Signaling under Green Investors’ Valuation]. *In progress*.
+- Huihui Liu, Ying-Ju Chen, Haotian Song (2025) [To Learn the Upstream or Not: Supplier Emissions Signaling under Green Investors’ Valuation](). *In progress*.
 - Huihui Liu, Haotian Song, Wenqiang Xiao (2026) [Multi-Dimensional Signaling with Supplier Credit Guarantees](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4902953). Accepted at *Management Science*.
 - Lian Qi, Haotian Song, Wenqiang Xiao (2025) [Coopetition in Platform-Based Retailing: On the Platform's Entry](https://doi.org/10.1287/mnsc.2023.00260). *Management Science* 71(5):4013-4027.
 - Haotian Song, Guoming Lai, Wenqiang Xiao (2024) [Optimal Salesforce Compensation with General Demand and Operational Considerations](https://doi.org/10.1287/msom.2022.0400). *Manufacturing & Service Operations Management* 26(6):2274-2283.
