@@ -27,9 +27,14 @@ For someone who wants to learn info econ, I strongly recommend the [notes](https
   * Economics: Theory Through Applications. [ver 1.0](https://trevorhsong.github.io/text_economics-theory-through-applications)
 {: .small}
 
-## Instructor
+## Cases
+  * Marcus Ang, Cheah Sin Mei, Haotian Song, Zhongsheng Hua (2025) China Huadian: Harnessing the Sun, Wind, and Nature for Hybrid Energy Optimisation.
+{: .small}
+
+## Courses
 <b>At ZJU SOM</b>
 {: .small}
+  * 2026 Spring: Operations Management (Undergraduate).  
   * 2025 Autumn: Mangerial Economics (GMBA), Game Theory and Information Economics (Undergraduate).
   * 2025 Summer: Python Basis for Business Data Analytics (Undergraduate).
   * 2025 Spring: Operations Management (Undergraduate).
@@ -38,15 +43,15 @@ For someone who wants to learn info econ, I strongly recommend the [notes](https
   * 2024 Summer: Python Basis for Business Data Analytics (Undergraduate).
   * 2024 Spring: Operations Management (Undergraduate).
   * 2023 Winter: Academic Writing (QTEM), Game Theory (QTEM), Information Economics and Contract Theory (PhD).
-  * 2023 Summer: Decision-Making in Management: Theory and Methods (Undergraduate).
+  * 2023 Summer: Decision-Making in Management: Theory and Methods (PhD).
   * 2022 Winter: Academic Writing (QTEM).
 {: .small}
 <b>Other</b>
 {: .small}
   * 2019 Summer at NYU Stern: Operations Management (Undergraduate Core). Evaluation: 4.3/5.0.
 {: .small}
-
-## Teaching Fellow
+<b>Teaching Fellow</b>
+{: .small}
   * NYU Stern: Decision Models (Undergrad & MBA), Decision under Risk (Master & MBA), Stochastic Processes and Simulation (Master), Stochastic Modelling and Simulation (Master), Revenue Management and Pricing (Master & MBA).
   * University of Calgary: Linear Methods, Calculus I II III, Calculus for Engineering, Discrete Mathematics, Optimization Theory and Applications.
 {: .small}
