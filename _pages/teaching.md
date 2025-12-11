@@ -28,7 +28,7 @@ For someone who wants to learn info econ, I strongly recommend the [notes](https
 {: .small}
 
 ## Cases
-  * Marcus Ang, Cheah Sin Mei, Haotian Song, Zhongsheng Hua (2025) [China Huadian: Harnessing the Sun, Wind, and Nature for Hybrid Energy Optimisation](https://ccx-shop.smu.edu.sg/products/china-huadian-harnessing-the-sun-wind-and-nature-for-hybrid-energy-optimisation?).
+  * Marcus Ang, Cheah Sin Mei, **Haotian Song**, Zhongsheng Hua (2025) [China Huadian: Harnessing the Sun, Wind, and Nature for Hybrid Energy Optimisation](https://ccx-shop.smu.edu.sg/products/china-huadian-harnessing-the-sun-wind-and-nature-for-hybrid-energy-optimisation?).
 {: .small}
 
 ## Courses
