@@ -27,7 +27,7 @@ I like parsimonious models.
 {: .small}
 
 ## Conference papers
-- Peng Zhang, Zhenhao peng, Yuan Li, Hanxiao Huang, Bin Zhang, **Haotian Song**, Meng Geng, Yubo Tao, Hai Lin (2025) Efficient ToothAR: Cascade Autoregressive Orthodontic Treatment Planning. *IEEE International Conference on Bioinformatics and Biomedicine*.
+- Peng Zhang, Zhenhao Peng, Yuan Li, Hanxiao Huang, Bin Zhang, **Haotian Song**, Meng Geng, Yubo Tao, Hai Lin (2025) Efficient ToothAR: Cascade Autoregressive Orthodontic Treatment Planning. *IEEE International Conference on Bioinformatics and Biomedicine*.
 - Peng Zhang, Yuan Li, **Haotian Song**, Yankai Jiang, Yubo Tao, Hai Lin, Hongguang Cui (2025) [SIGraph: Saliency Image-Graph Network for Retinal Disease Classification in Fundus Image](https://doi.org/10.1609/aaai.v39i10.33090). *Proceedings of the AAAI Conference on Artificial Intelligence* 39(10):10049-10057.
 - Yuriy Zinchenko, **Haotian Song**, William Rosehart (2016) [Optimal Transmission Network Topology for Resilient Power Supply](https://link.springer.com/chapter/10.1007/978-3-319-73758-4_10). *Information Systems, Logistics, and Supply Chain. Lecture Notes in Business Information Processing* 262:138-150.
 {: .small}
