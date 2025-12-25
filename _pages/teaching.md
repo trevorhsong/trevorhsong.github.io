@@ -8,7 +8,7 @@ classes: wide
 I believe the optimal outcome of teaching lies in sparking students' innate curiosity within their hearts while simultaneously instilling key philosophies in their minds.
 {: .small}
 
-## Lecture Notes
+## Lecture notes
   * Stochastic Processes and Simulation. <a href="/assets/Lecture2019.pdf">Notes</a> for Summer 2019 by <a href="http://people.stern.nyu.edu/jreed/">Josh Reed</a>.
   * Game-Theoretic Basis for Business Analytics. Under Construction. 
 {: .small}
