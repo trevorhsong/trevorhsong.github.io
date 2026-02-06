@@ -27,6 +27,14 @@ For someone who wants to learn info econ, I strongly recommend the [notes](https
   * Economics: Theory Through Applications. [ver 1.0](https://trevorhsong.github.io/text_economics-theory-through-applications)
 {: .small}
 
+<b>I am also exploring data analytics...</b>
+{: .small}
+  * [A Comprehensive Course on DiD](https://psantanna.com/did-resources/) by [Pedro H. C. Sant'Anna](https://psantanna.com/)
+  * [A Guide on Data Analysis](https://mike-data-analysis.share.connect.posit.cloud/)
+  * [Applied Causal Inference Powered by ML and AI](https://causalml-book.org/)
+  * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) 
+{: .small}
+
 ## Cases
   * Marcus Ang, Cheah Sin Mei, **Haotian Song**, Zhongsheng Hua (2025) [China Huadian: Harnessing the Sun, Wind, and Nature for Hybrid Energy Optimisation](https://ccx-shop.smu.edu.sg/products/china-huadian-harnessing-the-sun-wind-and-nature-for-hybrid-energy-optimisation?). [Harvard Business Impact](https://hbsp.harvard.edu/product/248SMU-PDF-ENG)
 {: .small}
