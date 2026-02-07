@@ -32,7 +32,8 @@ For someone who wants to learn info econ, I strongly recommend the [notes](https
   * [A Comprehensive Course on DiD](https://psantanna.com/did-resources/) by [Pedro H. C. Sant'Anna](https://psantanna.com/)
   * [A Guide on Data Analysis](https://mike-data-analysis.share.connect.posit.cloud/)
   * [Applied Causal Inference Powered by ML and AI](https://causalml-book.org/)
-  * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) 
+  * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+  * [Python for Data Analysis](https://wesmckinney.com/book/)
 {: .small}
 
 ## Cases
