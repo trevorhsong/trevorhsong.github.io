@@ -15,8 +15,8 @@ I like parsimonious models.
 {: .small}
 
 ## Journal papers
-- Jinxin Yang, **Haotian Song**, Weihua Zhou (2026) [Contract Farming with Technology Provision: Quality, Profitability, and the Role of Government Subsidies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5211845). *Submitted*.
-- **Haotian Song**, Nipun Thakurele, Wenqiang Xiao (2026) [Buy Box Allocation and Competitive Effects in Hybrid Marketplaces](). *Submitted*. 
+- Jinxin Yang†, **Haotian Song**, Weihua Zhou (2026) [Contract Farming with Technology Provision: Quality, Profitability, and the Role of Government Subsidies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5211845). *Submitted*.
+- **Haotian Song**, Nipun Thakurele†, Wenqiang Xiao (2026) [Buy Box Allocation and Competitive Effects in Hybrid Marketplaces](). *Submitted*. 
 - Huihui Liu, Ying-Ju Chen, **Haotian Song** (2026) [To Learn the Upstream or Not: Supplier Emissions Signaling under Green Investors’ Valuation](). *Submitted*.
 - Huihui Liu, **Haotian Song**, Wenqiang Xiao (2026) [Multidimensional Signaling with Supplier Credit Guarantees](https://doi.org/10.1287/mnsc.2024.07052). *Management Science*.
 - Lian Qi, **Haotian Song**, Wenqiang Xiao (2025) [Coopetition in Platform-Based Retailing: On the Platform's Entry](https://doi.org/10.1287/mnsc.2023.00260). *Management Science* 71(5):4013-4027.
@@ -24,7 +24,8 @@ I like parsimonious models.
 - Ilan Lobel, Sébastien Martin, **Haotian Song** (2024) [Frontiers in Operations: Employees vs. Contractors: An Operational Perspective](https://doi.org/10.1287/msom.2023.0029). *Manufacturing & Service Operations Management* 26(4):1306-1322. [Complete Appendix](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878215)
 - Maxime C. Cohen, Alexandre Jacquillat, **Haotian Song** (2023) [Price Discrimination and Inventory Allocation in Bertrand Competition](https://doi.org/10.1287/msom.2022.1146). *Manufacturing & Service Operations Management* 25(1):148-167. [Complete Appendix](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3732463)
 - Warren Hare, **Haotian Song** (2016) [On the Cardinality of Positively Linearly Independent Sets](https://link.springer.com/article/10.1007/s11590-015-0959-3). *Optimization Letters* 10(4):649-654.
-- Amit Jha, **Haotian Song**, Yuriy Zinchenko (2024) [Resilient Network Design: Disjoint Shortest Path Problem for Power Transmission Application](https://www.mdpi.com/2079-8954/12/4/117). *Systems* 12(4):117.
+- Amit Jha†, **Haotian Song**, Yuriy Zinchenko (2024) [Resilient Network Design: Disjoint Shortest Path Problem for Power Transmission Application](https://www.mdpi.com/2079-8954/12/4/117). *Systems* 12(4):117.
+(“†” indicates a student co-author)
 {: .small}
 
 ## Conference papers
