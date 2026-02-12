@@ -10,15 +10,15 @@ I used to have a lot of hobbies but now only persist in tennis and music.
 
 ## Still hang in there...
 
-I play a one-handed backhand. The racquets I recommend are:
+I use a one-handed backhand in **tennis**. The racquets I recommend are:
 {: .small}
 
 - Wilson PS85, used by Pete Sampras
 - Wilson K90, used by Roger Federer
-- Head Prestige, used by Marat Safin
+- Head Prestige Mid, used by Marat Safin
 {: .small}
 
-I have a deep affection for music, particularly songs that evoke a sense of nostalgia, poignance, and melancholy. My musical taste was profoundly shaped by a series of 5 compilation albums during my middle school years. Released by a Chinese music magazine called "Music Heaven", this series includes:
+I have a deep affection for **music**, particularly songs that evoke a sense of nostalgia, poignance, and melancholy. My musical taste was profoundly shaped by a series of 5 compilation albums during my middle school years. Released by a Chinese music magazine called "Music Heaven", this series includes:
 {: .small}
 
 - 《透过骨头抚摸你》 (Caressing You Through the Bones)
@@ -62,6 +62,7 @@ Traditional Chinese seal carving
 {: .small}
 
 - I took up seal carving in middle school, finding it an excellent method for attaining inner peace. Sadly, after moving abroad for my studies, the scarcity of materials forced me to give it up.
+- The first time Ilan saw “seal carving,” he thought it meant butchering seals.
 {: .small}
 
 Basketball
