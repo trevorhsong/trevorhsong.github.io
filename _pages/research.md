@@ -25,6 +25,7 @@ I like parsimonious models.
 - Maxime C. Cohen, Alexandre Jacquillat, **Haotian Song** (2023) [Price Discrimination and Inventory Allocation in Bertrand Competition](https://doi.org/10.1287/msom.2022.1146). *Manufacturing & Service Operations Management* 25(1):148-167. [Complete Appendix](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3732463)
 - Warren Hare, **Haotian Song** (2016) [On the Cardinality of Positively Linearly Independent Sets](https://link.springer.com/article/10.1007/s11590-015-0959-3). *Optimization Letters* 10(4):649-654.
 - Amit Jha†, **Haotian Song**, Yuriy Zinchenko (2024) [Resilient Network Design: Disjoint Shortest Path Problem for Power Transmission Application](https://www.mdpi.com/2079-8954/12/4/117). *Systems* 12(4):117.
+  
 (“†” indicates a student co-author)
 {: .small}
 
