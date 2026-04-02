@@ -80,7 +80,7 @@ Badminton & table tennis
 Nintendo
 {: .small}
 
-- My favourite series include Pokémon, Zelda, Castlevania, Fire Emblem, Wario, etc.   
+- My favourite series include Pokémon, Zelda, Castlevania, Fire Emblem, Wario, Klonoa, etc.   
 {: .small}
 
 Hiking & camping 
