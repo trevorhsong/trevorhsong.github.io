@@ -15,6 +15,7 @@ I like parsimonious models.
 {: .small}
 
 ## Journal papers
+- **Haotian Song**, Wenqiang Xiao (2026) [Demand Disclosure and Price Signaling in Online Marketplaces](). *Submitted*. 
 - Jinxin Yang†, **Haotian Song**, Weihua Zhou (2026) [Contract Farming with Technology Provision: Quality, Profitability, and the Role of Government Subsidies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5211845). *Submitted*.
 - **Haotian Song**, Nipun Thakurele†, Wenqiang Xiao (2026) [Buy Box Allocation and Competitive Effects in Hybrid Marketplaces](). *Submitted*. 
 - Huihui Liu, Ying-Ju Chen, **Haotian Song** (2026) [To Learn the Upstream or Not: Supplier Emissions Signaling under Green Investors’ Valuation](). *Submitted*.
