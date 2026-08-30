@@ -15,7 +15,7 @@ I like parsimonious models.
 {: .small}
 
 ## Journal papers
-- **Haotian Song** (2026) [When Better Forecasts Backfire: A Braess’ Paradox in Platform Replenishment]().
+- **Haotian Song** (2026) [When Better Forecasts Backfire: A Braess’ Paradox in Platform Replenishment](https://www.researchgate.net/publication/413758582_When_Better_Forecasts_Backfire_A_Braess'_Paradox_in_Platform_Replenishment).
 - **Haotian Song**, Wenqiang Xiao (2026) [Demand Disclosure and Price Signaling in Online Marketplaces](). *Submitted*. 
 - Jinxin Yang†, **Haotian Song**, Weihua Zhou (2026) [Contract Farming with Technology Provision: Quality, Profitability, and the Role of Government Subsidies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5211845). 
 - **Haotian Song**, Nipun Thakurele†, Wenqiang Xiao (2026) [Buy Box Allocation and Competitive Effects in Hybrid Marketplaces](). *Submitted*. 
